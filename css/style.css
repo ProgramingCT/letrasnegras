@@ -17,7 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
-  color: #6F8BA4;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -111,9 +111,9 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main {
-  background: #223a66;
+  background: #000000;
   color: #fff;
-  border-color: #223a66;
+  border-color: #000000;
 }
 
 .btn-main:hover {
@@ -339,7 +339,7 @@ a:focus {
 }
 
 .title-color {
-  color: #223a66;
+  color: #ffffff;
 }
 
 .secondary-bg {
@@ -381,7 +381,7 @@ a:focus {
 #navbarmain .nav-link {
   font-weight: 600;
   padding: 10px 15px;
-  color: #222;
+  color: #ffffff;
   font-family: "Exo", sans-serif;
   text-transform: capitalize;
   font-size: 16px;

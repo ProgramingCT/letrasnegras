@@ -252,7 +252,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
-  background: #223a66;
+  background: #191b1ef0;
 }
 
 .overly-2 {
@@ -289,13 +289,13 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 /* Links */
 a {
-  color: #222;
+  color: #ffffff;
   text-decoration: none;
   transition: all .35s ease;
 }
 
 a:focus, a:hover {
-  color: #e12454;
+  color: #646060;
   text-decoration: none;
 }
 
@@ -456,7 +456,7 @@ a:focus {
 }
 
 .bg-1 {
-  background: url("../images/bg/22.jpg") no-repeat 50% 50%;
+  background: url("../images/bg/21.jpg") no-repeat 50% 50%;
   background-size: cover;
   position: relative;
 }
@@ -487,7 +487,7 @@ a:focus {
 }
 
 .text-color {
-  color: #223a66;
+  color: #e1e5ec;
 }
 
 .text-color-2 {
@@ -1464,7 +1464,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #e12454;
+  background: #ffffff;
   z-index: 9999;
   display: inline-block;
   right: 55px;
@@ -1480,7 +1480,7 @@ a:focus {
 }
 
 .backtop i {
-  color: #fff;
+  color: #181717;
   font-size: 20px;
 }
 

@@ -432,7 +432,7 @@ a:focus {
 }
 
 .header-top-bar {
-  background: #223a66;
+  background: #dadde2;
   font-size: 14px;
   padding: 10px 0px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -456,7 +456,7 @@ a:focus {
 }
 
 .bg-1 {
-  background: url("../images/bg/22.jpg") no-repeat 50% 50%;
+  background: url("../images/bg/fd1.jpeg") no-repeat 50% 50%;
   background-size: cover;
   position: relative;
 }
@@ -479,7 +479,7 @@ a:focus {
   line-height: 1.2;
   letter-spacing: -1.2px;
   text-transform: capitalize;
-  color: #223a66;
+  color: #eaecee;
 }
 
 .letter-spacing {
@@ -487,7 +487,7 @@ a:focus {
 }
 
 .text-color {
-  color: #223a66;
+  color: #58595c;
 }
 
 .text-color-2 {

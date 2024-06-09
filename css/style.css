@@ -17,7 +17,7 @@ body {
   font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
-  color: #6F8BA4;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -111,9 +111,9 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main {
-  background: #223a66;
+  background: #000000;
   color: #fff;
-  border-color: #223a66;
+  border-color: #000000;
 }
 
 .btn-main:hover {
@@ -339,7 +339,7 @@ a:focus {
 }
 
 .title-color {
-  color: #223a66;
+  color: #ffffff;
 }
 
 .secondary-bg {
@@ -351,7 +351,7 @@ a:focus {
 }
 
 .section-title h2 {
-  color: #223a66;
+  color: #000000;
 }
 
 .text-lg {
@@ -381,7 +381,7 @@ a:focus {
 #navbarmain .nav-link {
   font-weight: 600;
   padding: 10px 15px;
-  color: #222;
+  color: #ffffff;
   font-family: "Exo", sans-serif;
   text-transform: capitalize;
   font-size: 16px;
@@ -497,7 +497,7 @@ a:focus {
 .divider {
   width: 40px;
   height: 5px;
-  background: #e12454;
+  background: #000000;
 }
 
 @media (max-width: 480px) {
@@ -565,7 +565,7 @@ a:focus {
   content: "";
   right: 10px;
   bottom: 20px;
-  background: #223a66;
+  background: #52565e;
   padding: 48px;
 }
 
@@ -615,7 +615,7 @@ a:focus {
 }
 
 .feature-item h4 {
-  color: #223a66;
+  color: #000000;
 }
 
 .feature-item p {
@@ -831,7 +831,7 @@ a:focus {
   top: 0px;
   width: 100%;
   height: 100%;
-  background: rgba(34, 58, 102, 0.95);
+  background: rgba(108, 112, 117, 0.95);
 }
 
 .mb-30 {
@@ -937,7 +937,7 @@ a:focus {
 
 .testimonial-block.style-2 i {
   bottom: -20px;
-  color: #e12454;
+  color: #3b3839;
   opacity: .3;
 }
 
@@ -1428,7 +1428,7 @@ a:focus {
 .footer-socials li a {
   width: 45px;
   height: 45px;
-  background: #6F8BA4;
+  background: #000000;
   color: #fff;
   display: inline-block;
   text-align: center;
@@ -1464,7 +1464,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-  background: #e12454;
+  background: #000000;
   z-index: 9999;
   display: inline-block;
   right: 55px;

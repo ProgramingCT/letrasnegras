@@ -289,10 +289,52 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 /* Links */
 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   transition: all .35s ease;
 }
+/* Estilos para el botón con clase .botonb */
+.botonb {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #ffffff; /* Color del texto blanco */
+  background-color: transparent; /* Fondo transparente */
+  border: 2px solid #ffffff; /* Borde blanco */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s; /* Efecto de transición */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-bottom: 40px; /* Espacio debajo del botón */
+}
+
+.botonb:hover {
+  background-color: #ffffff; /* Fondo blanco al pasar el mouse */
+  color: #000000; /* Color del texto al pasar el mouse */
+}
+
+/* Estilos para el botón con clase .botonn */
+.botonn {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #000000; /* Color del texto negro */
+  background-color: #ffffff; /* Fondo blanco */
+  border: 2px solid #000000; /* Borde negro */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Efecto de transición */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-bottom: 40px; /* Espacio debajo del botón */
+}
+
+.botonn:hover {
+  background-color: #000000; /* Fondo negro al pasar el mouse */
+  color: #ffffff; /* Color del texto blanco al pasar el mouse */
+  border-color: #000000; /* Borde negro al pasar el mouse */
+}
+
+
 
 a:focus, a:hover {
   color: #646060;
@@ -359,7 +401,7 @@ a:focus {
 }
 
 .gray-bg {
-  background: #f4f9fc;
+  background: #ffffff;
 }
 
 @media (max-width: 480px) {
@@ -679,7 +721,7 @@ a:focus {
 }
 
 .service i {
-  color: #e12454;
+  color: #000000;
 }
 
 .service h4 {

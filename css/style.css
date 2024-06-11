@@ -71,6 +71,11 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   box-shadow: none;
   border: 1px solid #223a66;
 }
+.country-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
 
 .form-control {
   box-shadow: none;
@@ -451,7 +456,7 @@ a:focus {
   visibility: hidden;
   transition: all 0.3s ease-out 0s;
   border: 0px;
-  border-top: 5px solid #e12454;
+  border-top: 5px solid #585657;
   border-radius: 0px;
 }
 

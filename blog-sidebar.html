@@ -25,57 +25,43 @@
 
 <body id="top">
 
-<header>
-
-	<nav class="navbar navbar-expand-lg navigation" id="navbar">
-		<div class="container">
-		 	 <a class="navbar-brand" href="index.html">
-			  	<img src="images/logo.png" alt="" class="img-fluid">
-			  </a>
-
-		  	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="icofont-navigation-menu"></span>
-		  </button>
-	  
-		  <div class="collapse navbar-collapse" id="navbarmain">
-			<ul class="navbar-nav ml-auto">
-			  <li class="nav-item active">
-				<a class="nav-link" href="index.html">Home</a>
-			  </li>
-			   <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
-			    <li class="nav-item"><a class="nav-link" href="service.html">Services</a></li>
-
-			    <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="department.html" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Department <i class="icofont-thin-down"></i></a>
-					<ul class="dropdown-menu" aria-labelledby="dropdown02">
-						<li><a class="dropdown-item" href="department.html">Departments</a></li>
-						<li><a class="dropdown-item" href="department-single.html">Department Single</a></li>
-					</ul>
-			  	</li>
-
-			  	<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="doctor.html" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Doctors <i class="icofont-thin-down"></i></a>
-					<ul class="dropdown-menu" aria-labelledby="dropdown03">
-						<li><a class="dropdown-item" href="doctor.html">Doctors</a></li>
-						<li><a class="dropdown-item" href="doctor-single.html">Doctor Single</a></li>
-						<li><a class="dropdown-item" href="appoinment.html">Appoinment</a></li>
-					</ul>
-			  	</li>
-
-			   <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog <i class="icofont-thin-down"></i></a>
-					<ul class="dropdown-menu" aria-labelledby="dropdown05">
-						<li><a class="dropdown-item" href="blog-sidebar.html">Blog with Sidebar</a></li>
-
-						<li><a class="dropdown-item" href="blog-single.html">Blog Single</a></li>
-					</ul>
-			  	</li>
-			   <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
-			</ul>
-		  </div>
-		</div>
-	</nav>
-</header>
+	<header>
+	
+		<nav class="navbar navbar-expand-lg navigation" id="navbar">
+			<div class="container">
+				  <a class="navbar-brand" href="index.html">
+					  <img src="images/logo.png" alt="" class="img-fluid">
+				  </a>
+	
+				  <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="icofont-navigation-menu"></span>
+			  </button>
+		  
+			  <div class="collapse navbar-collapse" id="navbarmain">
+				<ul class="navbar-nav ml-auto">
+				  <li class="nav-item active">
+					<a class="nav-link" href="index.html">Inicio</a>
+				  </li>
+				   <li class="nav-item"><a class="nav-link" href="about.html">Historia</a></li>
+					<li class="nav-item"><a class="nav-link" href="service.html">Comprar</a></li>
+	
+					<li class="nav-item dropdown">
+			
+	
+				   <li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Convocatorias<i class="icofont-thin-down"></i></a>
+						<ul class="dropdown-menu" aria-labelledby="dropdown05">
+							<li><a class="dropdown-item" href="blog-sidebar.html">Akera</a></li>
+	
+							<li><a class="dropdown-item" href="blog-single.html">Blog Single</a></li>
+						</ul>
+					  </li>
+				   <li class="nav-item"><a class="nav-link" href="contact.html">Pais</a></li>
+				</ul>
+			  </div>
+			</div>
+		</nav>
+	</header>
 	
 
 
@@ -117,6 +103,21 @@
 				<h2 >Bases</h2>
 
 				<a href="blog-single.html" target="_blank" class="btn btn-main btn-icon btn-round-full">Descargar<i class="icofont-simple-right ml-2  "></i></a>
+			
+				<button id="downloadBtn">Descargar</button>
+				 
+				<script> // boton que descarga en pdf 
+				document.getElementById("downloadBtn").addEventListener("click", function() {
+					// Crear un elemento <a> con atributos para descargar el PDF
+					var link = document.createElement('a');
+					link.href = 'ruta/al/archivo.pdf'; // Ruta al archivo PDF que quieres descargar
+					link.download = 'documento.pdf'; // Nombre del archivo PDF que se descargará
+					document.body.appendChild(link); // Agregar el elemento <a> al cuerpo del documento
+					link.click(); // Simular un clic en el enlace para iniciar la descarga
+					document.body.removeChild(link); // Eliminar el elemento <a> después de la descarga
+				});
+				</script>
+				
 			</div>
 		</div>
 	</div>
@@ -229,9 +230,11 @@
 			<div class="col-lg-4 mr-auto col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
 					<div class="logo mb-4">
-						<img src="images/logotipo.png" alt="" class="img-fluid">
+						<img src="images/bg/LOGOTIPO-07 (3) (1).png" alt="" class="img-fluid">
 					</div>
-					<p>Tempora dolorem voluptatum nam vero assumenda voluptate, facilis ad eos obcaecati tenetur veritatis eveniet distinctio possimus.</p>
+					<p>A la fecha, nos hemos logrado posicionar como una de las editoriales independientes más grandes de habla hispana en el mundo. Hemos publicado a más de cinco mil autores de todo Hispanoamérica. 
+
+					</p>
 
 					<ul class="list-inline footer-socials mt-4">
 						<li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i class="icofont-facebook"></i></a></li>
@@ -243,53 +246,52 @@
 
 			<div class="col-lg-2 col-md-6 col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Department</h4>
+					<h4 class="text-capitalize mb-3">Convocatorias</h4>
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#">Surgery </a></li>
-						<li><a href="#">Wome's Health</a></li>
-						<li><a href="#">Radiology</a></li>
-						<li><a href="#">Cardioc</a></li>
-						<li><a href="#">Medicine</a></li>
+						<li><a href="#">Alas de cuervo</a></li>
+						<li><a href="#">Komala</a></li>
+						<li><a href="#">Akera</a></li>
+						<li><a href="#">Converso</a></li>
+						<li><a href="#">Mangaka</a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="col-lg-2 col-md-6 col-sm-6">
 				<div class="widget mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Support</h4>
+					<h4 class="text-capitalize mb-3">Paises</h4>
 					<div class="divider mb-4"></div>
 
 					<ul class="list-unstyled footer-menu lh-35">
-						<li><a href="#">Terms & Conditions</a></li>
-						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="#">Company Support </a></li>
-						<li><a href="#">FAQuestions</a></li>
-						<li><a href="#">Company Licence</a></li>
+						<li><a href="#">Colombia</a></li>
+						<li><a href="#">Mexico</a></li>
+						<li><a href="#">Chile</a></li>
+						<li><a href="#">Ecuador</a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="col-lg-3 col-md-6 col-sm-6">
 				<div class="widget widget-contact mb-5 mb-lg-0">
-					<h4 class="text-capitalize mb-3">Get in Touch</h4>
+					<h4 class="text-capitalize mb-3">Contacto</h4>
 					<div class="divider mb-4"></div>
 
 					<div class="footer-contact-block mb-4">
 						<div class="icon d-flex align-items-center">
 							<i class="icofont-email mr-3"></i>
-							<span class="h6 mb-0">Support Available for 24/7</span>
+							<span class="h6 mb-0">Nuestro correo</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+23-345-67890">Support@email.com</a></h4>
+						<h4 class="mt-2"><a href="tel:+23-345-67890">grupoeditorialletrasnegras@gmail.com</a></h4>
 					</div>
 
 					<div class="footer-contact-block">
 						<div class="icon d-flex align-items-center">
 							<i class="icofont-support mr-3"></i>
-							<span class="h6 mb-0">Mon to Fri : 08:30 - 18:00</span>
+							<span class="h6 mb-0">Numero</span>
 						</div>
-						<h4 class="mt-2"><a href="tel:+57-xxx-xxx">+57-xxx-xxx</a></h4>
+						<h4 class="mt-2"><a href="tel:+57-3105917458">+57 310 5917458</a></h4>
 					</div>
 				</div>
 			</div>
@@ -299,14 +301,13 @@
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6">
 					<div class="copyright">
-						&copy; Copyright 2024  <span class="text-color">Grupo Editorial Letras Negras</span> - Todos los derechos reservados. <a href="https://themefisher.com/" target="_blank">Themefisher</a>
+						&copy; Copyright Reserved to <span class="text-color">Cetanix</span> by <a href="https://cetanixmanizales.com/" target="_blank">Cetanix</a>
 					</div>
 				</div>
 				<div class="col-lg-6">
 					<div class="subscribe-form text-lg-right mt-5 mt-lg-0">
 						<form action="#" class="subscribe">
-							<input type="text" class="form-control" placeholder="Your Email address">
-							<a href="#" class="btn btn-main-2 btn-round-full">Subscribe</a>
+							
 						</form>
 					</div>
 				</div>

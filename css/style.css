@@ -339,7 +339,9 @@ a {
   border-color: #000000; /* Borde negro al pasar el mouse */
 }
 
-
+.blanco {
+  color: white;
+}
 
 a:focus, a:hover {
   color: #646060;

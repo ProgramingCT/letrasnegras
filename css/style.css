@@ -252,7 +252,11 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
+<<<<<<< HEAD
   background: hsl(210, 5%, 23%);
+=======
+  background: #191b1ef0;
+>>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
 }
 
 .overly-2 {
@@ -289,13 +293,13 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 /* Links */
 a {
-  color: #222;
+  color: #ffffff;
   text-decoration: none;
   transition: all .35s ease;
 }
 
 a:focus, a:hover {
-  color: #e12454;
+  color: #646060;
   text-decoration: none;
 }
 
@@ -456,7 +460,11 @@ a:focus {
 }
 
 .bg-1 {
+<<<<<<< HEAD
   background: url("../images/bg/fd1.jpeg") no-repeat 50% 50%;
+=======
+  background: url("../images/bg/21.jpg") no-repeat 50% 50%;
+>>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
   background-size: cover;
   position: relative;
 }
@@ -487,7 +495,11 @@ a:focus {
 }
 
 .text-color {
+<<<<<<< HEAD
   color: #58595c;
+=======
+  color: #e1e5ec;
+>>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
 }
 
 .text-color-2 {
@@ -1464,7 +1476,11 @@ a:focus {
 
 .backtop {
   position: fixed;
+<<<<<<< HEAD
   background: #000000;
+=======
+  background: #ffffff;
+>>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
   z-index: 9999;
   display: inline-block;
   right: 55px;
@@ -1480,7 +1496,7 @@ a:focus {
 }
 
 .backtop i {
-  color: #fff;
+  color: #181717;
   font-size: 20px;
 }
 

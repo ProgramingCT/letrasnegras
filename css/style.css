@@ -71,6 +71,11 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   box-shadow: none;
   border: 1px solid #223a66;
 }
+.country-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
 
 .form-control {
   box-shadow: none;
@@ -252,11 +257,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
-<<<<<<< HEAD
   background: hsl(210, 5%, 23%);
-=======
-  background: #191b1ef0;
->>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
 }
 
 .overly-2 {
@@ -293,9 +294,53 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 /* Links */
 a {
-  color: #ffffff;
+  color: #000000;
   text-decoration: none;
   transition: all .35s ease;
+}
+/* Estilos para el botón con clase .botonb */
+.botonb {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #ffffff; /* Color del texto blanco */
+  background-color: transparent; /* Fondo transparente */
+  border: 2px solid #ffffff; /* Borde blanco */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s; /* Efecto de transición */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-bottom: 40px; /* Espacio debajo del botón */
+}
+
+.botonb:hover {
+  background-color: #ffffff; /* Fondo blanco al pasar el mouse */
+  color: #000000; /* Color del texto al pasar el mouse */
+}
+
+/* Estilos para el botón con clase .botonn */
+.botonn {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #000000; /* Color del texto negro */
+  background-color: #ffffff; /* Fondo blanco */
+  border: 2px solid #000000; /* Borde negro */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* Efecto de transición */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-bottom: 40px; /* Espacio debajo del botón */
+}
+
+.botonn:hover {
+  background-color: #000000; /* Fondo negro al pasar el mouse */
+  color: #ffffff; /* Color del texto blanco al pasar el mouse */
+  border-color: #000000; /* Borde negro al pasar el mouse */
+}
+
+.blanco {
+  color: white;
 }
 
 a:focus, a:hover {
@@ -363,7 +408,7 @@ a:focus {
 }
 
 .gray-bg {
-  background: #f4f9fc;
+  background: #ffffff;
 }
 
 @media (max-width: 480px) {
@@ -413,7 +458,7 @@ a:focus {
   visibility: hidden;
   transition: all 0.3s ease-out 0s;
   border: 0px;
-  border-top: 5px solid #e12454;
+  border-top: 5px solid #585657;
   border-radius: 0px;
 }
 
@@ -460,11 +505,7 @@ a:focus {
 }
 
 .bg-1 {
-<<<<<<< HEAD
-  background: url("../images/bg/fd1.jpeg") no-repeat 50% 50%;
-=======
   background: url("../images/bg/21.jpg") no-repeat 50% 50%;
->>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
   background-size: cover;
   position: relative;
 }
@@ -495,11 +536,7 @@ a:focus {
 }
 
 .text-color {
-<<<<<<< HEAD
   color: #58595c;
-=======
-  color: #e1e5ec;
->>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
 }
 
 .text-color-2 {
@@ -691,7 +728,7 @@ a:focus {
 }
 
 .service i {
-  color: #e12454;
+  color: #000000;
 }
 
 .service h4 {
@@ -1476,11 +1513,7 @@ a:focus {
 
 .backtop {
   position: fixed;
-<<<<<<< HEAD
-  background: #000000;
-=======
   background: #ffffff;
->>>>>>> b65280ef401581e525070b64dc7e7686c61fa449
   z-index: 9999;
   display: inline-block;
   right: 55px;

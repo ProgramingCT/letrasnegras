@@ -24,44 +24,80 @@
 </head>
 
 <body id="top">
-
-<header>
+	<header>
+		<nav class="navbar navbar-expand-lg navigation" id="navbar">
+			<div class="container">
+				<a class="navbar-brand" href="index.html">
+					<img src="images/logo.png" alt="" class="img-fluid">
+				</a>
 	
-	<nav class="navbar navbar-expand-lg navigation" id="navbar">
-		<div class="container">
-		 	 <a class="navbar-brand" href="index.html">
-			  	<img src="images/logo.png" alt="" class="img-fluid">
-			  </a>
-
-		  	<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="icofont-navigation-menu"></span>
-		  </button>
-	  
-		  <div class="collapse navbar-collapse" id="navbarmain">
-			<ul class="navbar-nav ml-auto">
-			  <li class="nav-item active">
-				<a class="nav-link" href="index.html">Inicio</a>
-			  </li>
-			   <li class="nav-item"><a class="nav-link" href="about.html">Historia</a></li>
-			    <li class="nav-item"><a class="nav-link" href="service.html">Comprar</a></li>
-
-			    <li class="nav-item dropdown">
-		
-
-			   <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Convocatorias<i class="icofont-thin-down"></i></a>
-					<ul class="dropdown-menu" aria-labelledby="dropdown05">
-						<li><a class="dropdown-item" href="blog-sidebar.html">Akera</a></li>
-
-						<li><a class="dropdown-item" href="blog-single.html">Blog Single</a></li>
+				<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="icofont-navigation-menu"></span>
+				</button>
+	
+				<div class="collapse navbar-collapse" id="navbarmain">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item active">
+							<a class="nav-link" id="nav-home" href="index.html">Inicio</a>
+						</li>
+						<li class="nav-item"><a class="nav-link" id="nav-history" href="about.html">Historia</a></li>
+						<li class="nav-item"><a class="nav-link" id="nav-buy" href="comprar.html">Comprar</a></li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Convocatorias<i class="icofont-thin-down"></i></a>
+							<ul class="dropdown-menu" aria-labelledby="dropdown05">
+								<li><a class="dropdown-item" href="akera.html">Akera</a></li>
+								<li><a class="dropdown-item" href="converso.html">Converso</a></li>
+								<li><a class="dropdown-item" href="mangaka.html">Mangaka</a></li>
+								<li><a class="dropdown-item" href="Colombia.html">Colombia</a></li>
+								<li><a class="dropdown-item" href="mexico.html">Mexico</a></li>
+								<li><a class="dropdown-item" href="chile.html">Chile</a></li>
+								<li><a class="dropdown-item" href="andino.html">Andino</a></li>
+								<li><a class="dropdown-item" href="ecuador.html">Ecuador</a></li>
+							</ul>
+						</li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="dropdownCountry" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<img src="images/paises/colombia.png" alt="Colombia" class="country-icon"> <span id="nav-country">País</span>
+							</a>
+							<ul class="dropdown-menu" aria-labelledby="dropdownCountry">
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('es')">
+									<img src="images/paises/colombia.png" alt="Colombia" class="country-icon"> Colombia
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/ecuador.png" alt="USA" class="country-icon"> Ecuador
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/mexico.png" alt="USA" class="country-icon"> Mexico                                 
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/peru.png" alt="USA" class="country-icon"> Peru
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/españa.png" alt="USA" class="country-icon"> España
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/chile.png" alt="USA" class="country-icon"> Chile
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/argentina.png" alt="USA" class="country-icon" >Argentina
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/bolivia.png" alt="USA" class="country-icon"> Boliva
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/rd.png" alt="USA" class="country-icon"> Republica Dominicana
+								</a></li>
+								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
+									<img src="images/paises/uruguay.png" alt="USA" class="country-icon"> Uruguay
+								</a></li>
+							</ul>
+						</li>
 					</ul>
-			  	</li>
-			   <li class="nav-item"><a class="nav-link" href="contact.html">Pais</a></li>
-			</ul>
-		  </div>
-		</div>
-	</nav>
-</header>
+				</div>
+			</div>
+		</nav>
+	</header>
+	
 	
 
 
@@ -218,6 +254,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">No para normales IV</h3>
 						<p class="mb-4">Palabra herida </p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -231,6 +268,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">Reflejos de otro mundo</h3>
 						<p class="mb-4">Akera </p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -244,6 +282,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">Jardín de almas marchitas</h3>
 						<p class="mb-4">Palabra herida</p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -258,6 +297,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">Salpicadura de cuerpos</h3>
 						<p class="mb-4">Alas de Cuervo </p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -271,6 +311,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">Pintura al óleo</h3>
 						<p class="mb-4">Alas de Cuervo </p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -284,6 +325,7 @@
 					<div class="content">
 						<h3 class="mt-3 mb-3" style="color: black;">Misa de difuntos</h3>
 						<p class="mb-4">Alas de Cuervo</p>
+						<a class="botonn" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
 					</div>
 				</div>
 			</div>
@@ -480,7 +522,7 @@
                         <textarea name="message" id="message" class="form-control" rows="6" placeholder="Tu mensaje"></textarea>
                     </div>
 
-                    <a class="btn btn-main btn-round-full" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
+                    <a class="botonb" href="appoinment.html" >Enviar <i class="icofont-simple-right ml-2  "></i></a>
                 </form>
             </div>
 			</div>

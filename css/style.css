@@ -36,11 +36,11 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 h4, .h4 {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   line-height: 30px;
 }
 
@@ -122,8 +122,8 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main:hover {
-  background: #e12454;
-  border-color: #e12454;
+  background: #00ff88;
+  border-color: #00ff88;
   color: #fff;
 }
 
@@ -477,7 +477,7 @@ a:focus {
 }
 
 .dropdown .dropdown-item:hover {
-  color: #e12454;
+  color: #00ff88;
 }
 
 .header-top-bar {
@@ -514,9 +514,9 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/slider-bg-1.jpg") no-repeat;
+  background: url("../images/bg/slider-bg-1.png") no-repeat;
   background-size: cover;
-  min-height: 550px;
+  min-height: 650px;
 }
 
 .banner .block {
@@ -540,7 +540,7 @@ a:focus {
 }
 
 .text-color-2 {
-  color: #e12454;
+  color:#00ff88;
 }
 
 .divider {
@@ -776,7 +776,7 @@ a:focus {
 .doctors .btn-group .btn.active {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: #00ff88;
   color: #fff;
 }
 
@@ -795,7 +795,7 @@ a:focus {
 .doctors .btn-group .btn:hover {
   box-shadow: none !important;
   border-color: transparent;
-  background: #e12454;
+  background: #00ff88;
   color: #fff;
 }
 
@@ -1458,7 +1458,7 @@ a:focus {
 }
 
 .widget .footer-menu a:hover {
-  color: #e12454;
+  color:  #00ff88;
 }
 
 .footer-contact-block span {

@@ -510,26 +510,47 @@ a:focus {
   position: relative;
 }
 
+/* Estilos generales para el banner */
 .banner {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/slider-bg-1.png") no-repeat;
+  background: url("../images/bg/slider-bg-1.png") no-repeat ;
   background-size: cover;
-  min-height: 650px;
+  min-height: 100vh; /* Usa viewport height para asegurar que el banner cubra la pantalla completa */
+  display: flex;
+  align-items: center; /* Centra verticalmente el contenido */
+  justify-content: center; /* Centra horizontalmente el contenido */
 }
 
-.banner .block {
-  padding: 80px 0px 160px;
+/* Estilos para pantallas grandes (desktops) */
+@media (min-width: 992px) {
+  .banner {
+    min-height: 650px; /* Puedes ajustar según sea necesario */
+  }
 }
 
-.banner .block h1 {
-  font-size: 60px;
-  line-height: 1.2;
-  letter-spacing: -1.2px;
-  text-transform: capitalize;
-  color: #eaecee;
+/* Estilos para tablets */
+@media (min-width: 768px) and (max-width: 991px) {
+  .banner {
+    min-height: 500px; /* Ajusta la altura para tablets */
+  }
 }
+
+/* Estilos para móviles */
+@media (max-width: 767px) {
+  .banner {
+    min-height: 400px; /* Ajusta la altura para móviles */
+  }
+}
+
+/* Estilos adicionales para pantallas muy pequeñas */
+@media (max-width: 480px) {
+  .banner {
+    min-height: 300px; /* Ajusta la altura para pantallas muy pequeñas */
+  }
+}
+
 
 .letter-spacing {
   letter-spacing: 2px;
@@ -549,43 +570,6 @@ a:focus {
   background: #000000;
 }
 
-@media (max-width: 480px) {
-  .banner .block h1 {
-    font-size: 38px;
-    line-height: 50px;
-  }
-  .banner {
-    min-height: 450px;
-    background: #fff !important;
-  }
-}
-
-@media (max-width: 400px) {
-  .banner .block h1 {
-    font-size: 28px;
-    line-height: 40px;
-  }
-  .banner {
-    min-height: 450px;
-    background: #fff !important;
-  }
-}
-
-@media (max-width: 768px) {
-  .banner .block h1 {
-    font-size: 56px;
-    line-height: 70px;
-  }
-  .banner {
-    background: #fff !important;
-  }
-}
-
-@media (max-width: 992px) {
-  .banner {
-    background: #fff !important;
-  }
-}
 
 .about-img img {
   border-radius: 5px;
@@ -900,11 +884,7 @@ a:focus {
   background-position: center center;
 }
 
-.cta-page {
-  background: url("../images/bg/banner.jpg") no-repeat;
-  background-size: cover;
-  position: relative;
-}
+
 
 .testimonial {
   position: relative;
@@ -1539,4 +1519,58 @@ a:focus {
   opacity: 1;
 }
 
+
+
+
 /*# sourceMappingURL=maps/style.css.map */
+
+
+/*# incorporaciones */
+
+.stars {
+  color: #FFD700; /* Color dorado para las estrellas */
+  font-size: 1.2em; /* Tamaño de las estrellas */
+  margin: 5px 0; /* Espaciado */
+}
+
+.testimonial-block {
+  position: relative;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.testimonial-thumb {
+  float: left;
+  margin-right: 20px;
+}
+
+.client-info {
+  overflow: hidden;
+}
+
+.client-info h4 {
+  margin-top: 0;
+  font-size: 1.4em;
+}
+
+.client-info span {
+  color: #888;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.client-info p {
+  margin: 10px 0;
+  color: #666;
+}
+
+.icofont-quote-right {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 2em;
+  color: #ddd;
+}
+

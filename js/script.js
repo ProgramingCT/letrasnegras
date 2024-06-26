@@ -1,5 +1,19 @@
 
 
+function generateStars(rating) {
+    let stars = '';
+    for (let i = 0; i < 5; i++) {
+        stars += i < rating ? '★' : '☆';
+    }
+    return stars;
+}
+
+document.querySelectorAll('.testimonial-block').forEach(block => {
+    let rating = block.getAttribute('data-rating'); // Supongamos que añadimos un atributo data-rating con la calificación
+    block.querySelector('.stars').innerHTML = generateStars(rating);
+});
+
+    
 
 ;(function ($) {
 
@@ -195,6 +209,3 @@
 
 })(jQuery);
 
-
-
-    

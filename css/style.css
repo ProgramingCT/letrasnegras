@@ -516,7 +516,7 @@ a:focus {
   background: #fff;
   background: url("../images/bg/slider-bg-1.png") no-repeat;
   background-size: cover;
-  min-height: 650px;
+  min-height: 600px;
 }
 
 .banner .block {
@@ -1538,5 +1538,6 @@ a:focus {
   cursor: pointer;
   opacity: 1;
 }
+
 
 /*# sourceMappingURL=maps/style.css.map */

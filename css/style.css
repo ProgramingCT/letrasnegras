@@ -517,10 +517,7 @@ a:focus {
   background: #fff;
   background: url("../images/bg/slider-bg-1.png") no-repeat ;
   background-size: cover;
-  min-height: 100vh; /* Usa viewport height para asegurar que el banner cubra la pantalla completa */
-  display: flex;
-  align-items: center; /* Centra verticalmente el contenido */
-  justify-content: center; /* Centra horizontalmente el contenido */
+  min-height: 600px;
 }
 
 /* Estilos para pantallas grandes (desktops) */
@@ -1518,8 +1515,6 @@ a:focus {
   cursor: pointer;
   opacity: 1;
 }
-
-
 
 
 /*# sourceMappingURL=maps/style.css.map */

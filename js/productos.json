@@ -2,9 +2,9 @@
     {
         "id": "Akera-01",
         "titulo": "Akera 01",
-        "imagen": "./tienda/img/abrigos/01.jpg",
+        "imagen": "./tienda/img/abrigos/01.jpeg",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Akera",
             "id": "Akera"
         },
         "precio": 1000
@@ -12,9 +12,9 @@
     {
         "id": "Akera-02",
         "titulo": "Akera 02",
-        "imagen": "./tienda/img/abrigos/02.jpg",
+        "imagen": "./tienda/img/abrigos/02.jpeg",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Akera",
             "id": "Akera"
         },
         "precio": 1000
@@ -22,160 +22,70 @@
     {
         "id": "Akera-03",
         "titulo": "Akera 03",
-        "imagen": "./tienda/img/abrigos/03.jpg",
+        "imagen": "./tienda/img/abrigos/03.jpeg",
         "categoria": {
-            "nombre": "Abrigos",
+            "nombre": "Akera",
             "id": "Akera"
         },
         "precio": 1000
     },
     {
-        "id": "Akera-04",
-        "titulo": "Akera 04",
-        "imagen": "./tienda/img/abrigos/04.jpg",
+        "id": "Alas-01",
+        "titulo": "Alas 01",
+        "imagen": "./tienda/img/camisetas/01.jpeg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "Akera"
+            "nombre": "Alas",
+            "id": "Alas"
         },
         "precio": 1000
     },
     {
-        "id": "Akera-05",
-        "titulo": "Akera 05",
-        "imagen": "./tienda/img/abrigos/05.jpg",
+        "id": "Alas-02",
+        "titulo": "Alas 02",
+        "imagen": "./tienda/img/camisetas/02.jpeg",
         "categoria": {
-            "nombre": "Abrigos",
-            "id": "Akera"
+            "nombre": "Alas",
+            "id": "Alas"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./tienda/img/camisetas/01.jpg",
+        "id": "Alas-03",
+        "titulo": "Alas03",
+        "imagen": "./tienda/img/camisetas/03.jpeg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Alas",
+            "id": "Alas"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./tienda/img/camisetas/02.jpg",
+        "id": "Palabra-01",
+        "titulo": "Palabra 01",
+        "imagen": "./tienda/img/pantalones/01.jpeg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Palabra",
+            "id": "Palabra"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./tienda/img/camisetas/03.jpg",
+        "id": "Palabra-02",
+        "titulo": "Palabra 02",
+        "imagen": "./tienda/img/pantalones/02.jpeg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Palabra",
+            "id": "Palabra"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./tienda/img/camisetas/04.jpg",
+        "id": "Palabra-03",
+        "titulo": "Palabra 03",
+        "imagen": "./tienda/img/pantalones/03.jpeg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./tienda/img/camisetas/05.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./tienda/img/camisetas/06.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./tienda/img/camisetas/07.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./tienda/img/camisetas/08.jpg",
-        "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./tienda/img/pantalones/01.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./tienda/img/pantalones/02.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./tienda/img/pantalones/03.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./tienda/img/pantalones/04.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
-        },
-        "precio": 1000
-    },
-    {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./tienda/img/pantalones/05.jpg",
-        "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Palabra",
+            "id": "Palabra"
         },
         "precio": 1000
     }

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "Akera-01",
+        "titulo": "Akera 01",
+        "imagen": "./tienda/img/abrigos/01.jpeg",
+        "categoria": {
+            "nombre": "Akera",
+            "id": "Akera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Akera-02",
+        "titulo": "Akera 02",
+        "imagen": "./tienda/img/abrigos/02.jpeg",
+        "categoria": {
+            "nombre": "Akera",
+            "id": "Akera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Akera-03",
+        "titulo": "Akera 03",
+        "imagen": "./tienda/img/abrigos/03.jpeg",
+        "categoria": {
+            "nombre": "Akera",
+            "id": "Akera"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Alas-01",
+        "titulo": "Alas 01",
+        "imagen": "./tienda/img/camisetas/01.jpeg",
+        "categoria": {
+            "nombre": "Alas",
+            "id": "Alas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Alas-02",
+        "titulo": "Alas 02",
+        "imagen": "./tienda/img/camisetas/02.jpeg",
+        "categoria": {
+            "nombre": "Alas",
+            "id": "Alas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Alas-03",
+        "titulo": "Alas03",
+        "imagen": "./tienda/img/camisetas/03.jpeg",
+        "categoria": {
+            "nombre": "Alas",
+            "id": "Alas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Palabra-01",
+        "titulo": "Palabra 01",
+        "imagen": "./tienda/img/pantalones/01.jpeg",
+        "categoria": {
+            "nombre": "Palabra",
+            "id": "Palabra"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Palabra-02",
+        "titulo": "Palabra 02",
+        "imagen": "./tienda/img/pantalones/02.jpeg",
+        "categoria": {
+            "nombre": "Palabra",
+            "id": "Palabra"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Palabra-03",
+        "titulo": "Palabra 03",
+        "imagen": "./tienda/img/pantalones/03.jpeg",
+        "categoria": {
+            "nombre": "Palabra",
+            "id": "Palabra"
+        },
+        "precio": 1000
+    }
+]

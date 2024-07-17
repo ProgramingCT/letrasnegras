@@ -1,3 +1,17 @@
+<?php
+
+        require '../config/database.php';
+        $db = new Database(); 
+        $con = $db -> conectar();
+
+        $sql = $con->prepare("SELECT id,nombre,precio From productos Where activo=1");
+        $sql-> execute();
+        $resultado = $sql->fetchALL(PDO::FETCH_ASSOC);
+
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

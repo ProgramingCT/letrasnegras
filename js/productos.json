@@ -1,16 +1,25 @@
 [
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":"Akera","titulo":"\"El demonio de la perversidad\" David Kolkrabe","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adelante%20.jpg/:/rs=w:1200,h:1200","categoria" : {"nombre":"Alas","id":"Alas"},"precio":"210.00"},
     {"id":"Akera","titulo":"\"Los sueños del cuervo\" Antología","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/sue%C3%B1os-del-cuervo%20(1).jpg","categoria" : {"nombre":"Akera","id":"Akera"},"precio":"210.00"}
     ,
     {"id":"Akera-03","titulo":"\"Secreto de amor y muerte\" John Fredy Henao","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/secretos-de-amor-y-muerte%20(1).jpg/:/rs=w:788,h:788","categoria":"palabra","field5":"palabra","precio":"280.00"},
     {"id":"Alas-01","titulo":"\"Túrbida bruma\" Raúl Sánchez Robles","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adjunto%202.jpg/:/rs=w:788,h:788","categoria": "Alas","field5":"Alas","precio":"210.00"}
+=======
+    {"id":"Akera-01","titulo":"\"El demonio de la perversidad\" David Kolkrabe","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adelante%20.jpg/:/rs=w:1200,h:1200","categoria":"alas","field5":"alas","precio":"210.00"},
+    {"id":"Akera-02","titulo":"\"Los sueños del cuervo\" Antología","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/sue%C3%B1os-del-cuervo%20(1).jpg","categoria":"Akera","field5":"Akera","precio":"210.00"}
+    ,
+    {"id":"Akera-03","titulo":"\"Secreto de amor y muerte\" John Fredy Henao","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adjunto%202.jpg","categoria":"palabra","field5":"palabra","precio":"280.00"},
+    {"id":"Alas-01","titulo":"\"Túrbida bruma\" Raúl Sánchez Robles","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adjunto%202.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Alas-02","titulo":"\"La tríada perfecta\" René Zhelle","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adjunto%202.jpg","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
     {"id":"Alas-03","titulo":"\"Si tuviéramos que hablar de los muertos\" Ulises Paniagua","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adelante.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-01","titulo":"\"Las puertas del infierno\" Maurice Level","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Portada%20Maurice.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"},
     {"id":"Palabra-02","titulo":"\"Aurora. Parte 1\" - Joel Cortés","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/correcion.jpg","categoria":"Palabra","field5":"Palabra","precio":"300.00"}
     ,
@@ -21,6 +30,18 @@
     {"id":"Palabra-06","titulo":"\"Del viejo hábito de morir\" de Leonardo Ramírez MartÍnez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/DEL-VIEJO-HABITO%20(1).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-07","titulo":"\"Los consultantes\" - Ana María Elizondo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANA-MARIA-ELIZONDO.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"}
+=======
+    {"id":"Palabra-01","titulo":"\"Las puertas del infierno\" Maurice Level","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Portada%20Maurice.jpg","categoria":"alas","field5":"alas","precio":"210.00"},
+    {"id":"Palabra-02","titulo":"\"Aurora. Parte 1\" - Joel Cortés","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/correcion.jpg","categoria":"Palabra","field5":"Palabra","precio":"300.00"}
+    ,
+    {"id":"Palabra-03","titulo":"\"HORROR IPSVM\" - Adalberto Agudelo-Cardona","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ADALBERTO%201.jpg","categoria":"alas","field5":"alas","precio":"210.00"},
+    {"id":"Palabra-04","titulo":"\"La huerta\" J. J. Mason","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/huertaa.jpg","categoria":"alas","field5":"alas","precio":"320.00"},
+    {"id":"Palabra-05","titulo":"\"El hocico del monstruo\" Ángel García","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/hocico-de-mosntruo.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-06","titulo":"\"Del viejo hábito de morir\" de Leonardo Ramírez MartÍnez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/DEL-VIEJO-HABITO%20(1).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-07","titulo":"\"Los consultantes\" - Ana María Elizondo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANA-MARIA-ELIZONDO.jpg","categoria":"alas","field5":"alas","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-08","titulo":"\"Estampas de aire aterciopelado\" Ismael Glaf","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ISMAEL%20GLAF%20portada%20completa.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
     {"id":"Palabra-09","titulo":"\"El jurado está deliberando\" P. L. Chávez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-el-jurado.jpg","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
@@ -31,12 +52,21 @@
     ,
     {"id":"Palabra-12","titulo":"Huellas de sangre - Colección de crímenes","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-cuentos.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-13","titulo":"\"Lo indecible\" Irene Gabriela Ramírez Muñoa","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lo-indecible-portada.jpg","categoria":"Alas","field5":"Alas","precio":"160.00"}
     ,
     {"id":"Palabra-14","titulo":"\"La batalla de Gog y Magog\" - Juan Carlos Doñate","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/zombiess.jpg","categoria":"Alas","field5":"Alas","precio":"350.00"}
     ,
     {"id":"Palabra-15","titulo":"\"La fe de los desalmados\" de Alejandro V. Luviano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/la-fe-de-los-desalmados-portada-completa.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
     {"id":"Palabra-16","titulo":"\"Norte 200Z\" de Leysa Yáñez Gil","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/norte-200z--.jpg","categoria":"Alas","field5":"Alas","precio":"280.00"}
+=======
+    {"id":"Palabra-13","titulo":"\"Lo indecible\" Irene Gabriela Ramírez Muñoa","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lo-indecible-portada.jpg","categoria":"alas","field5":"alas","precio":"160.00"}
+    ,
+    {"id":"Palabra-14","titulo":"\"La batalla de Gog y Magog\" - Juan Carlos Doñate","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/zombiess.jpg","categoria":"alas","field5":"alas","precio":"350.00"}
+    ,
+    {"id":"Palabra-15","titulo":"\"La fe de los desalmados\" de Alejandro V. Luviano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/la-fe-de-los-desalmados-portada-completa.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+    {"id":"Palabra-16","titulo":"\"Norte 200Z\" de Leysa Yáñez Gil","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/norte-200z--.jpg","categoria":"alas","field5":"alas","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-17","titulo":"\"La sociedad del guante blanco\" de José Javier F. G.","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-10-22%20at%204.21.20%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -45,24 +75,37 @@
     {"id":"Palabra-19","titulo":"\"AMELIA, toda ella\" de Juan Carlos Naranjo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MOLDE-PORTADAS-amelia-toda-ella.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
     {"id":"Palabra-20","titulo":"\"Relatos del abismo\" de Luis Fernando Escalona","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RELATOS-DEL-ABISMO.jpg","categoria":"akera","field5":"akera","precio":"210.00"},
     {"id":"Palabra-21","titulo":"\"Lukka Black\" de Eli R.G.","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lukka-black.jpg","categoria":"akera","field5":"akera","precio":"210.00"},
+<<<<<<< HEAD
     {"id":"Palabra-22","titulo":"\"Salvar la muerte\" de Jesús Guerra Medina","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/salvar-la-muerte.jpg","categoria":"Alas","field5":"Alas","precio":"280.00"}
+=======
+    {"id":"Palabra-22","titulo":"\"Salvar la muerte\" de Jesús Guerra Medina","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/salvar-la-muerte.jpg","categoria":"alas","field5":"alas","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-23","titulo":"\"El sello de Cinabrio\" de Andrés Castillo Guerra","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EL-SELLO-DE-CINABRIO.jpg","categoria":"akera","field5":"akera","precio":"280.00"}
     ,
     {"id":"Palabra-24","titulo":"\"Leonora y la rebelión de los graniceros\" de David Becerril","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-leonora-2%20(1).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-25","titulo":"\"El ominoso Dios de las profundidades\" de José Damian Mercado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-leonora-2%20(1).jpg","categoria":"Alas","field5":"Alas","precio":"280.00"}
+=======
+    {"id":"Palabra-25","titulo":"\"El ominoso Dios de las profundidades\" de José Damian Mercado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-leonora-2%20(1).jpg","categoria":"alas","field5":"alas","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-26","titulo":"\"Chloe\" de Kenji Ikenaga","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/chloe.jpg","categoria":"Palabra","field5":"Palabra","precio":"380.00"},
     {"id":"Palabra-27","titulo":"\"Mentes insanas\" de D.A. Martín","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-mentes-insanas-eea6de2.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-28","titulo":"\"Doppel\" de Nicolás Cardona Giraldo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/dopple.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"}
+=======
+    {"id":"Palabra-28","titulo":"\"Doppel\" de Nicolás Cardona Giraldo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/dopple.jpg","categoria":"alas","field5":"alas","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-29","titulo":"Colección de terror MISCELÁNEA DE ATROCIDADES","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-11-28%20at%2011.16.33%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
     {"id":"Palabra-30","titulo":"Pedido con envío Colección de terror Ecuador","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-11-28%20at%2011.16.33%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"593.00"}
     ,
     {"id":"Palabra-31","titulo":"\"SILUETA, la sombra del pasado\" de Fernando Covantes","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MOLDE-PORTADAS-silueta-la-sombra-del-pasado%20(1.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
+<<<<<<< HEAD
     {"id":"Palabra-32","titulo":"\"UMBRA visiones\" de Alejandro Flores","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/umbra-(2)-portada.jpg","categoria":"Alas","field5":"Alas","precio":"210.00"},
     {"id":"Palabra-33","titulo":"Pálpito escarlata - Antología vampírica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-12-14%20at%2010.45.42%20AM.jpeg","categoria":"Alas","field5":"Alas","precio":"210.00"}
     ,
@@ -78,6 +121,23 @@
     {"id":"Palabra-39","titulo":"Las hojas que no cayeron de José Escobedo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-01-25%20at%2013.06.07.jpeg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
     {"id":"Palabra-40","titulo":"La noche del cuervo - Antología","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADAFINALNOCHEDELCUERVO%20(1)_page-0001.jpg","categoria":"Alas","field5":"Alas","precio":"380.00"}
+=======
+    {"id":"Palabra-32","titulo":"\"UMBRA visiones\" de Alejandro Flores","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/umbra-(2)-portada.jpg","categoria":"alas","field5":"alas","precio":"210.00"},
+    {"id":"Palabra-33","titulo":"Pálpito escarlata - Antología vampírica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-12-14%20at%2010.45.42%20AM.jpeg","categoria":"alas","field5":"alas","precio":"210.00"}
+    ,
+    {"id":"Palabra-34","titulo":"Cuentos de terror cruel - Antología","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Portada%20frontal.jpg","categoria":"alas","field5":"alas","precio":"160.00"}
+    ,
+    {"id":"Palabra-35","titulo":"Huir de mÍ de Elena Canela","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-01-17%20at%2017.43.01.jpeg","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+    ,
+    {"id":"Palabra-36","titulo":"Bienvenido a plumas caÍdas de José Alonso MartÍnez Ceniceros","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-jose-alonso.jpg","categoria":"Palabra","field5":"Palabra","precio":"400.00"}
+    ,
+    {"id":"Palabra-37","titulo":"Colección de terror y suspenso MENTES CORROÍDAS","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portadamc.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+    ,
+    {"id":"Palabra-38","titulo":"Nadie sangra por la bailarina de Antonio Carlin Lynch","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/BAILARIA-1.jpg","categoria":"alas","field5":"alas","precio":"210.00"},
+    {"id":"Palabra-39","titulo":"Las hojas que no cayeron de José Escobedo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-01-25%20at%2013.06.07.jpeg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+    ,
+    {"id":"Palabra-40","titulo":"La noche del cuervo - Antología","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADAFINALNOCHEDELCUERVO%20(1)_page-0001.jpg","categoria":"alas","field5":"alas","precio":"380.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-41","titulo":"Los doce signos del Aya de G. A. Rivera","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-01-31%20at%2013.15.57.jpeg","categoria":"akera","field5":"akera","precio":"380.00"},
     {"id":"Palabra-42","titulo":"El dilema de Huntington de Abel Alejandro Ortiz Jiménez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/imagen_2023-02-09_145416649.png","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
@@ -90,38 +150,67 @@
     ,
     {"id":"Palabra-47","titulo":"No morí, desperté de Marcela Gutiérrez Bravo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-16%20at%2012.29.43.jpeg","categoria":"akera","field5":"akera","precio":"160.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-48","titulo":"Caín y Pandemínium de Miguel Corral","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA-CAIN.jpg","categoria":"akera","field5":"akera","precio":"210.00"}
+=======
+    {"id":"Palabra-48","titulo":"Caín y Pandemónium de Miguel Corral","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA-CAIN.jpg","categoria":"akera","field5":"akera","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-49","titulo":"El año de la mezquindad de Andrés Felipe Osorio","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-17%20at%2014.04.51.jpeg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
     {"id":"Palabra-50","titulo":"He pensado mucho en Sumalta de Alan Estefan Gutiérrez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HE%20PENSADO%20MUCHO%20EN%20SUMALTA%20(2).png","categoria":"akera","field5":"akera","precio":"320.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-51","titulo":"Reencarnados de Arello Sagara","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-24%20at%2016.04.33.jpeg/:/rs=w:381,h:594","categoria":"akera","field5":"akera","precio":"320.00"},
     {"id":"Palabra-52","titulo":"Colección de cuento urbano ABISMOS DE LA COTIDIANIDAD","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-23%20at%2014.34.06.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-53","titulo":"Psicopompo de Viviana Yolotzin Mendoza","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1.png","categoria":"Alas","field5":"Alas","precio":"210.00"},
+=======
+    {"id":"Palabra-51","titulo":"Reencarnados de Arello Sagara","imagen":"","categoria":"akera","field5":"akera","precio":"320.00"},
+    {"id":"Palabra-52","titulo":"Colección de cuento urbano ABISMOS DE LA COTIDIANIDAD","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-23%20at%2014.34.06.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-53","titulo":"Psicopompo de Viviana Yolotzin Mendoza","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1.png","categoria":"alas","field5":"alas","precio":"210.00"},
+>>>>>>> main
     {"id":"Palabra-54","titulo":"Viñetas del cielo de Manuel Smeker","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-04%20at%2016.51.36.jpeg","categoria":"akera","field5":"akera","precio":"160.00"}
     ,
     {"id":"Palabra-55","titulo":"Un perro duerme en tu cama y una serpiente en la mía de José Gabriel Gómez Corrales","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/un-perro%20(1).png","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-56","titulo":"Pálpito, Demonio y Cuentos Crueles - Anyela Mora","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/Portada%20Jard%C3%ADn%20.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"576.00"}
     ,
     {"id":"Palabra-57","titulo":"Libro negro de Sergio Quintero","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-14%20at%2020.16.28.jpeg","categoria":"akera","field5":"akera","precio":"160.00"},
     {"id":"Palabra-58","titulo":"Misa de difuntos - David Kolkrabe","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/230112-DavidKolkrabe-Ilustraci%C3%B3n-F1%20-%20copia.png","categoria":"Alas","field5":"Alas","precio":"120.00"},
+=======
+    {"id":"Palabra-56","titulo":"Pálpito, Demonio y Cuentos Crueles - Anyela Mora","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"576.00"}
+    ,
+    {"id":"Palabra-57","titulo":"Libro negro de Sergio Quintero","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-14%20at%2020.16.28.jpeg","categoria":"akera","field5":"akera","precio":"160.00"},
+    {"id":"Palabra-58","titulo":"Misa de difuntos - David Kolkrabe","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/230112-DavidKolkrabe-Ilustraci%C3%B3n-F1%20-%20copia.png","categoria":"alas","field5":"alas","precio":"120.00"},
+>>>>>>> main
     {"id":"Palabra-59","titulo":"Colección de cuento urbano. VICISITUDES QUITEÑAS","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20vicisitudes.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-60","titulo":"Sombras de bruja de José Daniel Arias Torres","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/plantilla---Akera---Cuentos-final.png","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-61","titulo":"Falsos ocultismos de Emilio Lara","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-24%20at%2014.42.17.jpeg","categoria":"Alas","field5":"Alas","precio":"160.00"},
     {"id":"Palabra-62","titulo":"Recuerdos del viento de Jim Kalep Castillo Gutiérrez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-26%20at%2011.02.09.jpeg","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
     {"id":"Palabra-63","titulo":"Jardín de almas marchitas de John Fredy Henao","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/Portada%20Jard%C3%ADn%20.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+=======
+    {"id":"Palabra-61","titulo":"Falsos ocultismos de Emilio Lara","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-24%20at%2014.42.17.jpeg","categoria":"alas","field5":"alas","precio":"160.00"},
+    {"id":"Palabra-62","titulo":"Recuerdos del viento de Jim Kalep Castillo Gutiérrez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-26%20at%2011.02.09.jpeg","categoria":"akera","field5":"akera","precio":"210.00"}
+    ,
+    {"id":"Palabra-63","titulo":"Jardín de almas marchitas de John Fredy Henao","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-64","titulo":"Colección de cuento psicológico VOCES QUE NUNCA CALLAN","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TPVOCESQUENUNCACALLAN3.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-65","titulo":"Moloch de Óscar Manuel González","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/moloch%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-66","titulo":"Ellos y el mar de Anne Lascano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada.png/:/rs=w:684,h:684","categoria":"Alas","field5":"Alas","precio":"210.00"},
+=======
+    {"id":"Palabra-66","titulo":"Ellos y el mar de Anne Lascano","imagen":"","categoria":"alas","field5":"alas","precio":"210.00"},
+>>>>>>> main
     {"id":"Palabra-67","titulo":"Ricosquillas de Óscar de Jesús Vásquez Aguirre","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/plantilla---Akera---Cuentos-final%20(1).png","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
     {"id":"Palabra-68","titulo":"El código del destino de León de la cruz","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-04-06%20at%2001.29.01.jpeg","categoria":"akera","field5":"akera","precio":"210.00"}
@@ -138,14 +227,21 @@
     {"id":"Palabra-75","titulo":"Fábrica de versos. Colección de poesía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portadafabricadeversos.png","categoria":"komala","field5":"komala","precio":"210.00"}
     ,
     {"id":"Palabra-76","titulo":"Yin yang de Maritza Ruiz","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA%20YIN%20YANG.png","categoria":"Palabra","field5":"Palabra","precio":"420.00"},
+<<<<<<< HEAD
     {"id":"Palabra-77","titulo":"La iglesia de Antonio Suárez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/iglesia.png","categoria":"Alas","field5":"Alas","precio":"210.00"}
     ,
     {"id":"Palabra-78","titulo":"Siniestras remiscencias. Colección de terror histórico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERROHIST%C3%93RICOPORTADA.png","categoria":"Alas","field5":"Alas","precio":"210.00"}
+=======
+    {"id":"Palabra-77","titulo":"La iglesia de Antonio Suárez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/iglesia.png","categoria":"alas","field5":"alas","precio":"210.00"}
+    ,
+    {"id":"Palabra-78","titulo":"Siniestras remiscencias. Colección de terror histórico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERROHIST%C3%93RICOPORTADA.png","categoria":"alas","field5":"alas","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-79","titulo":"El rebaño de Edwin Fernando Suárez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/el-reba%C3%B1o.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-80","titulo":"Proyecto rebelión. Colección de Ciencia Ficción","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CIENCIA.png","categoria":"akera","field5":"akera","precio":"160.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-81","titulo":"Negocio familiar de Ana Luisa Ortiz MartÍnez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/negocio-familiar.png","categoria":"Alas","field5":"Alas","precio":"280.00"}
     ,
     {"id":"Palabra-82","titulo":"Sinfonía de cuerpos. Colección de cuento erótico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SINFONIADECUERPOSEROTICO.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
@@ -153,22 +249,40 @@
     {"id":"Palabra-83","titulo":"mística psicodélica de Paloma Bahamín Serrano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Capa%202111112.png","categoria":"akera","field5":"akera","precio":"160.00"}
     ,
     {"id":"Palabra-84","titulo":"Vértebras de Jorge Rivath","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/vertebras.png/:/rs=w:684,h:684","categoria":"Alas","field5":"Alas","precio":"160.00"}
+=======
+    {"id":"Palabra-81","titulo":"Negocio familiar de Ana Luisa Ortiz Martínez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/negocio-familiar.png","categoria":"alas","field5":"alas","precio":"280.00"}
+    ,
+    {"id":"Palabra-82","titulo":"Sinfonía de cuerpos. Colección de cuento erótico","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-83","titulo":"Mística psicodélica de Paloma Bahamón Serrano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Capa%202111112.png","categoria":"akera","field5":"akera","precio":"160.00"}
+    ,
+    {"id":"Palabra-84","titulo":"Vértebras de Jorge Rivath","imagen":"","categoria":"alas","field5":"alas","precio":"160.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-85","titulo":"Las voces de la locura de María Estefanía Rodríguez Vallejo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/vocesportada.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-86","titulo":"La noche de los perdidos de Tatty G. H","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/opci%C3%B3n21.png","categoria":"akera","field5":"akera","precio":"320.00"},
     {"id":"Palabra-87","titulo":"Detrás de las montañas. Colección de cuento chileno","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/COLECCI%C3%93NCHILE.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-88","titulo":"Salpicadura de cuerpo. Colección de gore","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SALPICADURADECUERPOS.png","categoria":"Alas","field5":"Alas","precio":"210.00"}
     ,
     {"id":"Palabra-89","titulo":"La bruja sapo de Irving González Hurtado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/la-bruja-sapo%20(1).png","categoria":"akera","field5":"akera","precio":"280.00"}
     ,
     {"id":"Palabra-90","titulo":"¿Es el viento el que aúlla? de Arturo Panero González","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/3.png/:/rs=w:684,h:684","categoria":"Alas","field5":"Alas","precio":"380.00"}
+=======
+    {"id":"Palabra-88","titulo":"Salpicadura de cuerpo. Colección de gore","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SALPICADURADECUERPOS.png","categoria":"alas","field5":"alas","precio":"210.00"}
+    ,
+    {"id":"Palabra-89","titulo":"La bruja sapo de Irving González Hurtado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/la-bruja-sapo%20(1).png","categoria":"akera","field5":"akera","precio":"280.00"}
+    ,
+    {"id":"Palabra-90","titulo":"¿Es el viento el que aúlla? de Arturo Panero González","imagen":"","categoria":"alas","field5":"alas","precio":"380.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-91","titulo":"Minipoemas de Adán Machuca","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MINIPOEMAS.png","categoria":"conversoconveso","field5":"conversoconveso","precio":"210.00"}
     ,
     {"id":"Palabra-92","titulo":"Coloquios con el espejo. Colección monólogos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/coloquios.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-93","titulo":"Breves historias de la vida cotidiana de Ricardo Enrique Flores Haro","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/breves.jpg/:/rs=w:436,h:676","categoria":"akera","field5":"akera","precio":"160.00"},
     {"id":"Palabra-94","titulo":"Frecuencias análogas. Colección de mundos alternos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2.png","categoria":"akera","field5":"akera","precio":"210.00"}
     ,
@@ -177,6 +291,16 @@
     {"id":"Palabra-96","titulo":"Una sombras que me acecha. Tomo I. Colección de monstruos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1%20(2).png","categoria":"Alas","field5":"Alas","precio":"210.00"}
     ,
     {"id":"Palabra-97","titulo":"Una sombras que me acecha. Tomo II. Colección de monstruos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2%20(1).png","categoria":"Alas","field5":"Alas","precio":"210.00"}
+=======
+    {"id":"Palabra-93","titulo":"Breves historias de la vida cotidiana de Ricardo Enrique Flores Haro","imagen":"","categoria":"akera","field5":"akera","precio":"160.00"},
+    {"id":"Palabra-94","titulo":"Frecuencias análogas. Colección de mundos alternos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2.png","categoria":"akera","field5":"akera","precio":"210.00"}
+    ,
+    {"id":"Palabra-95","titulo":"Lucine en espirales de Arturo Diez Gutiérrez","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-96","titulo":"Una sombras que me acecha. Tomo I. Colección de monstruos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1%20(2).png","categoria":"alas","field5":"alas","precio":"210.00"}
+    ,
+    {"id":"Palabra-97","titulo":"Una sombras que me acecha. Tomo II. Colección de monstruos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2%20(1).png","categoria":"alas","field5":"alas","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-98","titulo":"Senderos inmarcesibles. Colección de cuento colombiano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-06-10%20at%208.07.50%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -184,9 +308,15 @@
     ,
     {"id":"Palabra-100","titulo":"Reflejos de otro mundo. Colección de fantasía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-06-20%20at%2010.17.18%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-101","titulo":"Entre bestias de Jesús Norberto Bonilla Torres","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ENTREBESTIAS%20(2).png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-102","titulo":"Pensamentario de Jéssica Valeria Tupiza Lima","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PENSAMENTARIO.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-101","titulo":"Entre bestias de Jesús Norberto Bonilla Torres","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-102","titulo":"Pensamentario de Jéssica Valeria Tupiza Lima","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-103","titulo":"Gritos poéticos. Colección de poesía social","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-06-28%20at%204.57.34%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -198,18 +328,30 @@
     {"id":"Palabra-107","titulo":"Relatos fúnebres. Colección de terror cruel","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-07-04%20at%202.48.17%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
     ,
     {"id":"Palabra-108","titulo":"Como un centauro de Carlos Alberto Rivera Arce","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Como%20un%20centauro.png","categoria":"Palabra","field5":"Palabra","precio":"380.00"},
+<<<<<<< HEAD
     {"id":"Palabra-109","titulo":"Destinos entrelazados. Tomo I. Colección de amor","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/1-ee41a23.png/:/rs=w:397,h:612","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-110","titulo":"Destinos entrelazados. Tomo II. Colección de amor","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2-2a37ffc.png/:/rs=w:397,h:612","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-109","titulo":"Destinos entrelazados. Tomo I. Colección de amor","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-110","titulo":"Destinos entrelazados. Tomo II. Colección de amor","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-111","titulo":"Trenzas de Mario Torres Dujisin","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2%20(1)-3ae73e0.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
     {"id":"Palabra-112","titulo":"Bestiario encantado. Colección de monstruos fantásticos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-07-12%20at%208.02.49%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-113","titulo":"El sentenciar de la tenebrosidad de Jhon Fredy Aguillón Romero","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-114","titulo":"Wayak: Visión entre sueños de Laura Aguilar Ramírez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/arte.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-115","titulo":"Galillazo de Andrea Itúrburu Calderón","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/GALILLAZO.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+=======
+    {"id":"Palabra-114","titulo":"Wayak: Visión entre sueños de Laura Aguilar Ramírez","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-115","titulo":"Galillazo de Andrea Itúrburu Calderón","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-116","titulo":"La casa de las memorias rotas de Víctor A. Agudelo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-07-25%20at%2010.46.05%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
     ,
@@ -219,9 +361,15 @@
     ,
     {"id":"Palabra-119","titulo":"La tierra del sol. Colección de cuento Mexicano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/tierra.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-120","titulo":"TeamordidoKali de Daniel Mejía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADATEAMORDIDOKALI-b3501c2.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
     ,
     {"id":"Palabra-121","titulo":"Cordillera en espiral. Colección de ciencia Ficción andina","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-10%20at%2011.59.22%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-120","titulo":"TeamordidoKali de Daniel Mejía","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+    ,
+    {"id":"Palabra-121","titulo":"Cordillera en espiral. Colección de ciencia ficción andina","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-10%20at%2011.59.22%20AM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-122","titulo":"Reminiscencias. Antología poética","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-11%20at%202.58.01%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
@@ -249,7 +397,11 @@
     {"id":"Palabra-134","titulo":"Sangre prehispánica. Colección de nahuales","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/art.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-135","titulo":"Las fauces del olvido","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/fauces.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+<<<<<<< HEAD
     {"id":"Palabra-136","titulo":"Las islas prodigiosas de José Pedro míndez Estrada","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ISLAS.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
+=======
+    {"id":"Palabra-136","titulo":"Las islas prodigiosas de José Pedro Méndez Estrada","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ISLAS.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-137","titulo":"Testamento de un adiós. Colección de cuentos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-09-07%20at%203.24.23%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -262,11 +414,19 @@
     ,
     {"id":"Palabra-142","titulo":"Huellas ancestrales. Colección de mitos y leyendas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-09-14%20at%2012.28.23%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-143","titulo":"Grito sagrado. Colección de cuento peruano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/GRITOSAGRADO.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-144","titulo":"Mi querido doctor de Alisson Ochoa Rogel","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/miqueridodoctor%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"160.00"},
     {"id":"Palabra-145","titulo":"Hijos del rey de W.M. Setnom","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HIJOSDELREY.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
     {"id":"Palabra-146","titulo":"El nombre del olvido de Jessica López Meza","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELNOMBREDELOLVIDO.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+=======
+    {"id":"Palabra-143","titulo":"Grito sagrado. Colección de cuento peruano","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-144","titulo":"Mi querido doctor de Alisson Ochoa Rogel","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/miqueridodoctor%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"160.00"},
+    {"id":"Palabra-145","titulo":"Hijos del rey de W.M. Setnom","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HIJOSDELREY.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
+    {"id":"Palabra-146","titulo":"El nombre del olvido de Jessica López Meza","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-147","titulo":"Emma Llob de Antonio Martín Soro","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EMMA%20LLOB%20organizada.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
@@ -287,20 +447,32 @@
     ,
     {"id":"Palabra-157","titulo":"Ángeles abandonados de José Servín","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANGELESABANDONADOS.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-158","titulo":"Hubo una vez... brujas, nahuales y mucha ciencia Ficción de Manuela Herazo MartÍnez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HUBOUNAVEZ.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-158","titulo":"Hubo una vez... brujas, nahuales y mucha ciencia ficción de Manuela Herazo MartÍnez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HUBOUNAVEZ.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-159","titulo":"Tormenta carmesí. Tomo I. Colección de misterio","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MISTERIOI%2C2.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-160","titulo":"Tormenta carmesí. Tomo II. Colección de misterio","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MISTERIOII.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-161","titulo":"La reina de la oscuridad de Fernanda Cuevas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LAREINADELAOSCURIDAD.jpg","categoria":"Palabra","field5":"Palabra","precio":"320.00"},
+<<<<<<< HEAD
     {"id":"Palabra-162","titulo":"Penitencia de Lucien GarcÍa Salinas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PENITENCIA1%20(1).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-162","titulo":"Penitencia de Lucien García Salinas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PENITENCIA1%20(1).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-163","titulo":"Lenguas marítimas de Fran Joan Violette","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LENGUASMARITIMAS%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
     ,
     {"id":"Palabra-164","titulo":"Encuentro infame. Colección de terror ecuatoriano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ENCUENTROINFAME.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-165","titulo":"Ventanas al futuro. Colección de ciencia Ficción","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/VENTANAS%20AL%20FUTURO.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-165","titulo":"Ventanas al futuro. Colección de ciencia ficción","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/VENTANAS%20AL%20FUTURO.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-166","titulo":"Sombras y secretos en penumbra. Colección de terror colombiano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERRORCOLOMBIANO.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -327,6 +499,7 @@
     ,
     {"id":"Palabra-179","titulo":"Universos en miniatura. Tomo II. Colección de microhistorias","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/UNIVERSOENMINIATURAIII.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-180","titulo":"La condena. Colección de cuento apocalíptico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CONDENA.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-181","titulo":"Cinco narraciones intranscendentes de Cosme Marulanda","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/COSME.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
@@ -334,12 +507,26 @@
     {"id":"Palabra-183","titulo":"Solo quedaron las cÓscaras de Nicole Sánchez Castillo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS.png","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
     ,
     {"id":"Palabra-184","titulo":"Memorias de un charlatán de Tadeo Tarot","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MEMORIASDEUNCHARLAT%C3%81N.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-180","titulo":"La condena. Colección de cuento apocalíptico","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-181","titulo":"Cinco narraciones intranscendentes de Cosme Marulanda","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/COSME.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+    {"id":"Palabra-182","titulo":"Historial de muladares de Dely M. Dominguez P.","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"160.00"},
+    {"id":"Palabra-183","titulo":"Solo quedaron las cáscaras de Nicole Sánchez Castillo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS.png","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
+    ,
+    {"id":"Palabra-184","titulo":"Memorias de un charlatón de Tadeo Tarot","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MEMORIASDEUNCHARLAT%C3%81N.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-185","titulo":"La breve historia de una galaxia en la tierra de Mauricio Morales Bautista","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LABREVEHISTORIA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
     {"id":"Palabra-186","titulo":"El raudal de la nostalgia de Sebastián Jiménez Valencia","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RAUDAL.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-187","titulo":"Ladridos de quiltro de Patricio Leonardo Araus","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/LADRILLOSDEQUILTRODIBUJO.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
     {"id":"Palabra-188","titulo":"Pasiones ominosas de Amaury R. Ledesma","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/PASIONESOMINOSAS.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+=======
+    {"id":"Palabra-187","titulo":"Ladridos de quiltro de Patricio Leonardo Araus","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"280.00"},
+    {"id":"Palabra-188","titulo":"Pasiones ominosas de Amaury R. Ledesma","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+>>>>>>> main
     {"id":"Palabra-189","titulo":"13 historias inconexas de Néstor Nis Mendía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/13HISTORIAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
     ,
     {"id":"Palabra-190","titulo":"Beso tu nombre. Antología de poesía colombiana","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POES%C3%8DACOLOMBIAN.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
@@ -350,16 +537,25 @@
     ,
     {"id":"Palabra-193","titulo":"Todo de mí de Sam Escobare","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TODODEMI.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-194","titulo":"El lápiz mígico, el reino de Florent de Franck Cilia","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-195","titulo":"La leyenda de los zopilotes de Iztacalco de Yakamí Jorge Barrón Machado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-196","titulo":"Memorias del olvido. Antología de poesía no romíntica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/NOROMANTICO.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+=======
+    {"id":"Palabra-194","titulo":"El lápiz mágico, el reino de Florent de Franck Cilia","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-195","titulo":"La leyenda de los zopilotes de Iztacalco de Yakamí Jorge Barrón Machado","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-196","titulo":"Memorias del olvido. Antología de poesía no romántica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/NOROMANTICO.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-197","titulo":"La vida de Helena de F. J López","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LAVIDADEHELENA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-198","titulo":"El escritor de cuentos de Andrés Orozco","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELESCTRITOR.png","categoria":"Palabra","field5":"Palabra","precio":"160.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-199","titulo":"Aimíe entre deseos de C. K. Montoya","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AIM%C3%89.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
     ,
     {"id":"Palabra-200","titulo":"Revelada de Daniela Anchundia","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/REVELADA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
@@ -367,10 +563,20 @@
     {"id":"Palabra-202","titulo":"Paraíso mírbido de César Bañuelos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PARA%C3%8DSOM%C3%93RBIDO.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-203","titulo":"Las mAlas juntas de Max Jecklin","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASMAlasJUNTAS%20RGB_Mesa%20de%20trabajo%201.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+=======
+    {"id":"Palabra-199","titulo":"Aimée entre deseos de C. K. Montoya","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AIM%C3%89.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"}
+    ,
+    {"id":"Palabra-200","titulo":"Revelada de Daniela Anchundia","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/REVELADA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+    {"id":"Palabra-201","titulo":"Rara avis de Alfonso Abonza","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RARAVIS.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+    {"id":"Palabra-202","titulo":"Paraíso mórbido de César Bañuelos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PARA%C3%8DSOM%C3%93RBIDO.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-203","titulo":"Las malas juntas de Max Jecklin","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASMALASJUNTAS%20RGB_Mesa%20de%20trabajo%201.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"},
+>>>>>>> main
     {"id":"Palabra-204","titulo":"Secretos de la piel. Tomo I. Colección de cuento erótico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201%20(3).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-205","titulo":"Secretos de la piel. Tomo II. Colección de cuento erótico","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202%20(3).jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-206","titulo":"El marinero que viajó por el multiverso de L. Yanes","imagen":"https://m.media-amazon.com/images/I/71IhCq8mtCL._SL1500_.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-207","titulo":"Arroyo de laureles. Colección de cuento ecuatoriano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOECUATORUANO.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
@@ -380,6 +586,17 @@
     {"id":"Palabra-209","titulo":"Existen los fantasmas de Leandro Daniel Olguín","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EXISTENFANTASMAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
     {"id":"Palabra-210","titulo":"Emociones en Viñetas. Colección de manga","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EMOCIONESENVI%C3%91ETAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+=======
+    {"id":"Palabra-206","titulo":"El marinero que viajó por el multiverso de L. Yanes","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-207","titulo":"Arroyo de laureles. Colección de cuento ecuatoriano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOECUATORUANO.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-208","titulo":"Campo de poemas bordado. Antología de poesía chilena","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+    ,
+    {"id":"Palabra-209","titulo":"Existen los fantasmas de Leandro Daniel Olguín","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EXISTENFANTASMAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+    ,
+    {"id":"Palabra-210","titulo":"Emociones en viñetas. Colección de manga","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EMOCIONESENVI%C3%91ETAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-211","titulo":"Cerebros fragmentados. Colección de relatos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CEREBROSFRAGMENTADOS.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
@@ -387,6 +604,7 @@
     ,
     {"id":"Palabra-213","titulo":"Galería de sombras II. Colección de terror mexicano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202TERRORMEXICA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-214","titulo":"Segunda oportunidad de Camila R. GarcÍa","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SEGUNAOPORTUNIDADPORTADA.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
     ,
     {"id":"Palabra-215","titulo":"Albor de un romance I. Antología de poesía romíntica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201ALBOR.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
@@ -403,6 +621,24 @@
     {"id":"Palabra-221","titulo":"Casa sola de Emilio Antonio Calderón","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CASASOLA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
     ,
     {"id":"Palabra-222","titulo":"Karma: luz y oscuridad de Gabriel San Andrés Mendoza","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/KARMA.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+=======
+    {"id":"Palabra-214","titulo":"Segunda oportunidad de Camila R. García","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SEGUNAOPORTUNIDADPORTADA.png","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+    ,
+    {"id":"Palabra-215","titulo":"Albor de un romance I. Antología de poesía romántica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201ALBOR.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-216","titulo":"Albor de un romance II. Antología de poesía romántica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202ALBOR.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-217","titulo":"Laberintos de la locura. Tomo I. Colección de relatos","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-218","titulo":"Laberintos de la locura. Tomo II. Colección de relatos","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-219","titulo":"Las historias de mi Taita de Nicole George","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20(2).png","categoria":"Palabra","field5":"Palabra","precio":"160.00"},
+    {"id":"Palabra-220","titulo":"Aurora. Parte 2 de Joel Cortés Martínez","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"380.00"}
+    ,
+    {"id":"Palabra-221","titulo":"Casa sola de Emilio Antonio Calderón","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CASASOLA.jpg","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
+    ,
+    {"id":"Palabra-222","titulo":"Karma: luz y oscuridad de Gabriel San Andrés Mendoza","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"280.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-223","titulo":"After deus de AxlDylxn","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADADEUS.png","categoria":"Palabra","field5":"Palabra","precio":"320.00"},
     {"id":"Palabra-224","titulo":"Relatos para desvanecerse. Colección de casas abandonadas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACASASABANDONADAS.png","categoria":"Palabra","field5":"Palabra","precio":"210.00"}
@@ -444,10 +680,17 @@
     {"id":"Palabra-247","titulo":"Fragmentos el pensamiento II. Colección de monólogos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada1.png","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
     {"id":"Palabra-248","titulo":"Los agonizantes de R. C. Leteo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LOSAGONIZANTES.jpg","categoria":"Palabra","field5":"Palabra","precio":"170.00"},
+<<<<<<< HEAD
     {"id":"Palabra-249","titulo":"El hombre que me mató de Fiorela Navarro","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/ELHOMBREQUEMEMAT%C3%93.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
     {"id":"Palabra-250","titulo":"E-book El demonio de la perversidad de David Kolkrabe","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20el%20demonio.webp/:/rs=w:400,h:637","categoria":"Palabra","field5":"Palabra","precio":"80.00"},
     {"id":"Palabra-251","titulo":"E-book ¿Es el viento el que aúlla? de Arturo Panero González","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/3.png/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"80.00"}
+=======
+    {"id":"Palabra-249","titulo":"El hombre que me mató de Fiorela Navarro","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
+    ,
+    {"id":"Palabra-250","titulo":"E-book El demonio de la perversidad de David Kolkrabe","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"80.00"},
+    {"id":"Palabra-251","titulo":"E-book ¿Es el viento el que aúlla? de Arturo Panero González","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"80.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-252","titulo":"El caminar de sol. Colección de cuento español","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOESPA%C3%91OL.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
@@ -458,7 +701,11 @@
     {"id":"Palabra-255","titulo":"Hogar, dulce hogar de Raven Yoru","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HOGAR%2C%20DUCLECHOGAR.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"},
     {"id":"Palabra-256","titulo":"Panteón de versos vivos. Colección de calaveritas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACALAVERITAS.png","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-257","titulo":"El país de los cereales de José Ramín Jiménez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELPAISDELOSCEREALES_Mesa%20de%20trabajo%201.jpg","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
+=======
+    {"id":"Palabra-257","titulo":"El país de los cereales de José Ramón Jiménez","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELPAISDELOSCEREALES_Mesa%20de%20trabajo%201.jpg","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-258","titulo":"Humo en los ojos de José Luis Aguirre","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HUMOENLOSOJOS.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
@@ -476,18 +723,30 @@
     ,
     {"id":"Palabra-266","titulo":"Fiesta de luces y sombra. Colección día de muertos","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202024-03-19%20at%201.41.06%20PM.jpeg","categoria":"Palabra","field5":"Palabra","precio":"350.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-267","titulo":"Señores del salitre de Franco Álvarez","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/SE%C3%91ORSALITRES.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"400.00"}
+=======
+    {"id":"Palabra-267","titulo":"Señores del salitre de Franco Álvarez","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"400.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-268","titulo":"Fisuras del alma I. Colección de poesía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AMOR_Mesa%20de%20trabajo%201.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
     {"id":"Palabra-269","titulo":"Fisuras del alma II. Colección de poesía","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AMOR_Mesa%20de%20trabajo%201%20copia.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-270","titulo":"Ojeras de Faviola Llamas","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Ojeras.jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"230.00"},
+=======
+    {"id":"Palabra-270","titulo":"Ojeras de Faviola Llamas","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"230.00"},
+>>>>>>> main
     {"id":"Palabra-271","titulo":"Voces de la urbe. Colección de cuento urbano","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOURBANO.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
     {"id":"Palabra-272","titulo":"Mosaico de place. Antología de poesía erótica","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POES%C3%8DAEROTICA.jpg","categoria":"Palabra","field5":"Palabra","precio":"230.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-273","titulo":"E-book. Solo quedaron las cÓscaras de Nicole Sánchez Castillo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"80.00"}
+=======
+    {"id":"Palabra-273","titulo":"E-book. Solo quedaron las cáscaras de Nicole Sánchez Castillo","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS%20(1).png","categoria":"Palabra","field5":"Palabra","precio":"80.00"}
+>>>>>>> main
     ,
     {"id":"Palabra-274","titulo":"Colores del malecón. Colección de cuento guayaquileño","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOGUAYAQUILE%C3%91O.jpg","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
     ,
@@ -551,10 +810,14 @@
     ,
     {"id":"Palabra-306","titulo":"Aguas oscuras y otros relatos de Mirta Durán","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AGUASOSCURAS.jpg","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
     ,
+<<<<<<< HEAD
     {"id":"Palabra-307","titulo":"Reflejos de los Andes. Colección de cuento medioambiental","imagen":"https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MEDIOAMBIENTE_Mesa%20de%20trabajo%201%20(1).jpg/:/rs=w:684,h:684","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
 =======
 
 >>>>>>> 359ff9586d51787ce67b7acabf1a17e9b9e04df2
+=======
+    {"id":"Palabra-307","titulo":"Reflejos de los Andes. Colección de cuento medioambiental","imagen":"","categoria":"Palabra","field5":"Palabra","precio":"170.00"}
+>>>>>>> main
     
         {
             "id": "Akera",

@@ -349,6 +349,7 @@ main {
         display: flex;
         justify-content: space-between;
         align-items: center;
+        
     }
 
     .header-mobile .logo {
@@ -396,3 +397,4 @@ main {
         grid-template-columns: 1fr;
     }
 }
+

@@ -836,8 +836,8 @@
                                     "titulo": "Fábrica de versos. Colección de poesía",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portadafabricadeversos.png",
                                     "categoria": {
-                                        "nombre": "komala",
-                                        "id": "komala"
+                                        "nombre": "Komala",
+                                        "id": "Komala"
                                     },
                                     "precio": "210.00"
                                 },
@@ -1124,8 +1124,8 @@
                                         "titulo": "Gritos poéticos. Colección de poesía social",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-06-28%20at%204.57.34%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },

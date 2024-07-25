@@ -122,8 +122,8 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main:hover {
-  background: #00ff88;
-  border-color: #00ff88;
+  background: #ee8a50;
+  border-color: #ee8a50;
   color: #fff;
 }
 
@@ -477,7 +477,7 @@ a:focus {
 }
 
 .dropdown .dropdown-item:hover {
-  color: #00ff88;
+  color: #ee8a50;
 }
 
 .header-top-bar {

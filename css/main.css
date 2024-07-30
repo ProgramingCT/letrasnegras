@@ -137,6 +137,7 @@ main {
     padding: 3rem;
 }
 
+
 .titulo-principal {
     color: var(--clr-main);
     margin-bottom: 2rem;
@@ -398,3 +399,27 @@ main {
     }
 }
 
+.buscador {
+    display: flex;
+    align-items: center;
+}
+
+.input-busqueda {
+    flex: 1;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+}
+
+.boton-buscar {
+    padding: 5px 10px;
+    border: none;
+    background-color: #000000;
+    color: white;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+}
+
+.boton-buscar i {
+    margin-right: 0;
+}

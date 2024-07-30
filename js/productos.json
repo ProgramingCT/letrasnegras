@@ -42,16 +42,6 @@
             "precio": "210.00"
         },
         {
-            "id": "Alas-02",
-            "titulo": "\"La tríada perfecta\" René Zhelle",
-            "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adjunto%202.jpg",
-            "categoria": {
-                "nombre": "Akera",
-                "id": "Akera"
-            },
-            "precio": "210.00"
-        },
-        {
             "id": "Alas-03",
             "titulo": "\"Si tuviéramos que hablar de los muertos\" Ulises Paniagua",
             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Adelante.jpg",

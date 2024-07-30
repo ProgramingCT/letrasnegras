@@ -35,7 +35,7 @@ a {
 }
 
 aside {
-    padding: 2rem;
+    padding: 0rem 1rem;
     padding-right: 0;
     color: var(--clr-white);
     position: sticky;
@@ -54,7 +54,7 @@ aside {
 .menu {
     display: flex;
     flex-direction: column;
-    gap: .5rem;
+    gap: 0 .1rem;
 }
 
 .boton-menu {
@@ -109,7 +109,7 @@ aside {
 }
 
 .boton-carrito {
-    margin-top: 2rem;
+    margin-top: 0;
 }
 
 .numerito {

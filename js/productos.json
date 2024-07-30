@@ -16,8 +16,8 @@
             "titulo": "\"Los sueños del cuervo\" Antología",
             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/sue%C3%B1os-del-cuervo%20(1).jpg",
             "categoria": {
-                "nombre": "Akera",
-                "id": "Akera"
+                "nombre": "Alas",
+                "id": "Alas"
             },
             "precio": "210.00"
         },
@@ -26,8 +26,8 @@
             "titulo": "\"Secreto de amor y muerte\" John Fredy Henao",
             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/secretos-de-amor-y-muerte%20(1).jpg/:/rs=w:788,h:788",
             "categoria": {
-                "nombre": "palabra",
-                "id": "palabra"
+                "nombre": "Palabra",
+                "id": "Palabra"
             },
             "precio": "280.00"
         },
@@ -78,8 +78,8 @@
                 "titulo": "\"Aurora. Parte 1\" - Joel Cortés",
                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/correcion.jpg",
                 "categoria": {
-                    "nombre": "Palabra",
-                    "id": "Palabra"
+                    "nombre": "Akera",
+                    "id": "Akera"
                 },
                 "precio": "300.00"
             },
@@ -484,8 +484,8 @@
                             "titulo": "Los doce signos del Aya de G. A. Rivera",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-01-31%20at%2013.15.57.jpeg",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "380.00"
                         },
@@ -504,8 +504,8 @@
                             "titulo": "Zion de Laura Fuentes",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-06%20at%2016.19.59.jpeg",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "210.00"
                         },
@@ -524,8 +524,8 @@
                             "titulo": "Pasado y presente de la salud-enfermedad dentro la cosmovisión Maya de Iván Renato Zúñiga Carrasco",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-10%20at%2010.56.17.jpeg",
                             "categoria": {
-                                "nombre": "Palabra",
-                                "id": "Palabra"
+                                "nombre": "Akropolis",
+                                "id": "Akropolis"
                             },
                             "precio": "210.00"
                         },
@@ -534,8 +534,8 @@
                             "titulo": "El pequeño Gran Maclan de Rogelio Granja López",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-17%20at%2013.37.19.jpeg",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "380.00"
                         },
@@ -544,8 +544,8 @@
                             "titulo": "No morí, desperté de Marcela Gutiérrez Bravo",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-16%20at%2012.29.43.jpeg",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "160.00"
                         },
@@ -554,8 +554,8 @@
                             "titulo": "Caín y Pandemínium de Miguel Corral",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA-CAIN.jpg",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "210.00"
                         },
@@ -574,8 +574,8 @@
                             "titulo": "He pensado mucho en Sumalta de Alan Estefan Gutiérrez",
                             "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HE%20PENSADO%20MUCHO%20EN%20SUMALTA%20(2).png",
                             "categoria": {
-                                "nombre": "akera",
-                                "id": "akera"
+                                "nombre": "Akera",
+                                "id": "Akera"
                             },
                             "precio": "320.00"
                         },
@@ -586,8 +586,8 @@
                                 "titulo": "Reencarnados de Arello Sagara",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-02-24%20at%2016.04.33.jpeg",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "320.00"
                             },
@@ -616,8 +616,8 @@
                                 "titulo": "Viñetas del cielo de Manuel Smeker",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-04%20at%2016.51.36.jpeg",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "160.00"
                             },
@@ -626,15 +626,15 @@
                                 "titulo": "Un perro duerme en tu cama y una serpiente en la mía de José Gabriel Gómez Corrales",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/un-perro%20(1).png",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "210.00"
                             },
                             {
                                 "id": "Palabra-56",
                                 "titulo": "Pálpito, Demonio y Cuentos Crueles - Anyela Mora",
-                                "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/Portada%20Jard%C3%ADn%20.png/:/rs=w:684,h:684",
+                                "imagen": "",
                                 "categoria": {
                                     "nombre": "Palabra",
                                     "id": "Palabra"
@@ -646,8 +646,8 @@
                                 "titulo": "Libro negro de Sergio Quintero",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-14%20at%2020.16.28.jpeg",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "160.00"
                             },
@@ -676,8 +676,8 @@
                                 "titulo": "Sombras de bruja de José Daniel Arias Torres",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/plantilla---Akera---Cuentos-final.png",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "210.00"
                             },
@@ -702,15 +702,15 @@
                                 "titulo": "Recuerdos del viento de Jim Kalep Castillo Gutiérrez",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-03-26%20at%2011.02.09.jpeg",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "210.00"
                             },
                             {
                                 "id": "Palabra-63",
                                 "titulo": "Jardín de almas marchitas de John Fredy Henao",
-                                "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/Portada%20Jard%C3%ADn%20.png/:/rs=w:684,h:684",
+                                "imagen": "",
                                 "categoria": {
                                     "nombre": "Palabra",
                                     "id": "Palabra"
@@ -740,7 +740,7 @@
                             {
                                 "id": "Palabra-66",
                                 "titulo": "Ellos y el mar de Anne Lascano",
-                                "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada.png/:/rs=w:684,h:684",
+                                "imagen": "",
                                 "categoria": {
                                     "nombre": "Alas",
                                     "id": "Alas"
@@ -752,8 +752,8 @@
                                 "titulo": "Ricosquillas de Óscar de Jesús Vásquez Aguirre",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/plantilla---Akera---Cuentos-final%20(1).png",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "210.00"
                             },
@@ -762,8 +762,8 @@
                                 "titulo": "El código del destino de León de la cruz",
                                 "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-04-06%20at%2001.29.01.jpeg",
                                 "categoria": {
-                                    "nombre": "akera",
-                                    "id": "akera"
+                                    "nombre": "Akera",
+                                    "id": "Akera"
                                 },
                                 "precio": "210.00"
                             },
@@ -795,8 +795,8 @@
                                     "titulo": "Carnes, huesos y pellejos de Dilan Chino Sandoval",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CARNES.png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "210.00"
                                 },
@@ -825,8 +825,8 @@
                                     "titulo": "Hysterias de memoria, pulsión y olvido de Débora Hadaza",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/d%C3%A9borahadaza.png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "210.00"
                                 },
@@ -885,8 +885,8 @@
                                     "titulo": "Proyecto rebelión. Colección de Ciencia Ficción",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CIENCIA.png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "160.00"
                                 },
@@ -904,7 +904,7 @@
                                 {
                                     "id": "Palabra-82",
                                     "titulo": "Sinfonía de cuerpos. Colección de cuento erótico",
-                                    "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SINFONIADECUERPOSEROTICO.png/:/rs=w:684,h:684",
+                                    "imagen": "",
                                     "categoria": {
                                         "nombre": "Palabra",
                                         "id": "Palabra"
@@ -916,15 +916,15 @@
                                     "titulo": "mística psicodélica de Paloma Bahamín Serrano",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Capa%202111112.png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "160.00"
                                 },
                                 {
                                     "id": "Palabra-84",
                                     "titulo": "Vértebras de Jorge Rivath",
-                                    "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/vertebras.png/:/rs=w:684,h:684",
+                                    "imagen": "",
                                     "categoria": {
                                         "nombre": "Alas",
                                         "id": "Alas"
@@ -946,8 +946,8 @@
                                     "titulo": "La noche de los perdidos de Tatty G. H",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/opci%C3%B3n21.png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "320.00"
                                 },
@@ -976,15 +976,15 @@
                                     "titulo": "La bruja sapo de Irving González Hurtado",
                                     "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/la-bruja-sapo%20(1).png",
                                     "categoria": {
-                                        "nombre": "akera",
-                                        "id": "akera"
+                                        "nombre": "Akera",
+                                        "id": "Akera"
                                     },
                                     "precio": "280.00"
                                 },
                                 {
                                     "id": "Palabra-90",
                                     "titulo": "¿Es el viento el que aúlla? de Arturo Panero González",
-                                    "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/3.png/:/rs=w:684,h:684",
+                                    "imagen": "",
                                     "categoria": {
                                         "nombre": "Alas",
                                         "id": "Alas"
@@ -1001,8 +1001,8 @@
                                         "titulo": "Minipoemas de Adán Machuca",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MINIPOEMAS.png",
                                         "categoria": {
-                                            "nombre": "conversoconveso",
-                                            "id": "conversoconveso"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1019,10 +1019,10 @@
                                     {
                                         "id": "Palabra-93",
                                         "titulo": "Breves historias de la vida cotidiana de Ricardo Enrique Flores Haro",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/breves.jpg/:/rs=w:436,h:676",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "akera",
-                                            "id": "akera"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1031,15 +1031,15 @@
                                         "titulo": "Frecuencias análogas. Colección de mundos alternos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2.png",
                                         "categoria": {
-                                            "nombre": "akera",
-                                            "id": "akera"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-95",
                                         "titulo": "Lucine en espirales de Arturo Diez Gutiérrez",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lucine.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -1081,8 +1081,8 @@
                                         "titulo": "A la orilla del espíritu. Colección de terror social",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-3b1a218.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1091,8 +1091,8 @@
                                         "titulo": "Reflejos de otro mundo. Colección de fantasía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-06-20%20at%2010.17.18%20AM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1101,20 +1101,20 @@
                                     {
                                         "id": "Palabra-101",
                                         "titulo": "Entre bestias de Jesús Norberto Bonilla Torres",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ENTREBESTIAS%20(2).png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-102",
                                         "titulo": "Pensamentario de Jéssica Valeria Tupiza Lima",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PENSAMENTARIO.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1133,8 +1133,8 @@
                                         "titulo": "Pintura al óleo de Alberto Becerril Iturriaga",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PINTURAL%C3%93LEO.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1163,8 +1163,8 @@
                                         "titulo": "Relatos fúnebres. Colección de terror cruel",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-07-04%20at%202.48.17%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "320.00"
                                     },
@@ -1181,20 +1181,20 @@
                                     {
                                         "id": "Palabra-109",
                                         "titulo": "Destinos entrelazados. Tomo I. Colección de amor",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/1-ee41a23.png/:/rs=w:397,h:612",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-110",
                                         "titulo": "Destinos entrelazados. Tomo II. Colección de amor",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2-2a37ffc.png/:/rs=w:397,h:612",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1203,8 +1203,8 @@
                                         "titulo": "Trenzas de Mario Torres Dujisin",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2%20(1)-3ae73e0.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1213,8 +1213,8 @@
                                         "titulo": "Bestiario encantado. Colección de monstruos fantásticos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-07-12%20at%208.02.49%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1241,7 +1241,7 @@
                                     {
                                         "id": "Palabra-115",
                                         "titulo": "Galillazo de Andrea Itúrburu Calderón",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/GALILLAZO.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -1263,8 +1263,8 @@
                                         "titulo": "Plegarias al espíritu extraviado de Óscar Páez",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PLEGARIASALESP%C3%8DRITUEXTRAVIADO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1273,8 +1273,8 @@
                                         "titulo": "Al lado de la carretera de Francisco Hernández",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/al-lado.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1291,10 +1291,10 @@
                                     {
                                         "id": "Palabra-120",
                                         "titulo": "TeamordidoKali de Daniel Mejía",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADATEAMORDIDOKALI-b3501c2.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1303,8 +1303,8 @@
                                         "titulo": "Cordillera en espiral. Colección de ciencia Ficción andina",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-10%20at%2011.59.22%20AM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1313,8 +1313,8 @@
                                         "titulo": "Reminiscencias. Antología poética",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-11%20at%202.58.01%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1353,8 +1353,8 @@
                                         "titulo": "Pesadillas de un futuro incierto. Colección de terror distópico",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-18%20at%2012.30.12%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "320.00"
                                     },
@@ -1363,8 +1363,8 @@
                                         "titulo": "El marrón del cielo de Andrés Ulianov",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/elmarr%C3%B3ndelcielo.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1373,8 +1373,8 @@
                                         "titulo": "Álbum familiar. Colección de cuentos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-23%20at%2012.38.49%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1383,8 +1383,8 @@
                                         "titulo": "Pesadillas latinoamericanas. Colección de los sueños del cuervo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada-1.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1393,8 +1393,8 @@
                                         "titulo": "Promoción de la semana. Historial de muladares - Señores del salitre",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Promoci%C3%B3n%20de%20la%20semana%20(2)-3b2c073.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "560.00"
                                     },
@@ -1413,8 +1413,8 @@
                                         "titulo": "La sirena de mi abuelo y otros cuentos de Carlos Jafar López",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Capa%201.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1423,8 +1423,8 @@
                                         "titulo": "Despedida sobre papel. Colección de cuentos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-08-24%20at%202.15.02%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1433,8 +1433,8 @@
                                         "titulo": "Sangre prehispánica. Colección de nahuales",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/art.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1443,8 +1443,8 @@
                                         "titulo": "Las fauces del olvido",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/fauces.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1463,8 +1463,8 @@
                                         "titulo": "Testamento de un adiós. Colección de cuentos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-09-07%20at%203.24.23%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1483,8 +1483,8 @@
                                         "titulo": "Epicedio al amor. Colección de cuentos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-09-12%20at%2010.16.46%20AM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1513,15 +1513,15 @@
                                         "titulo": "Huellas ancestrales. Colección de mitos y leyendas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202023-09-14%20at%2012.28.23%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-143",
                                         "titulo": "Grito sagrado. Colección de cuento peruano",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/GRITOSAGRADO.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -1533,8 +1533,8 @@
                                         "titulo": "Mi querido doctor de Alisson Ochoa Rogel",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/miqueridodoctor%20(1).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1543,18 +1543,18 @@
                                         "titulo": "Hijos del rey de W.M. Setnom",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HIJOSDELREY.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
                                     {
                                         "id": "Palabra-146",
                                         "titulo": "El nombre del olvido de Jessica López Meza",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELNOMBREDELOLVIDO.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1583,8 +1583,8 @@
                                         "titulo": "Manías del corazón. Antología poética",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MAN%C3%8DASDELCORAZ%C3%93N.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1593,8 +1593,8 @@
                                         "titulo": "Manías de la mente. Antología poética",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MAN%C3%8DASDELAMENTE.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1603,8 +1603,8 @@
                                         "titulo": "Las consecuencias de Edavon: Thule de Eduardo G. S",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASCONSECUENCIASDEEDAVON.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "320.00"
                                     },
@@ -1623,18 +1623,18 @@
                                         "titulo": "En la orilla del Sinú de Fabien Féral Villegas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RIOSIN%C3%9AILLUS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "160.00"
                                     },
                                     {
                                         "id": "Palabra-154",
                                         "titulo": "Las ventanas dan a calles extensas de Alan Amado",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/VENTANASDANA.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1653,8 +1653,8 @@
                                         "titulo": "Microcuervos. Colección de los mejores microrrelatos de terror en español 2022-2023",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MICROCUERVOS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "120.00"
                                     },
@@ -1663,8 +1663,8 @@
                                         "titulo": "Ángeles abandonados de José Servín",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANGELESABANDONADOS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1673,8 +1673,8 @@
                                         "titulo": "Hubo una vez... brujas, nahuales y mucha ciencia Ficción de Manuela Herazo Martínez",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HUBOUNAVEZ.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1683,8 +1683,8 @@
                                         "titulo": "Tormenta carmesí. Tomo I. Colección de misterio",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MISTERIOI%2C2.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1693,8 +1693,8 @@
                                         "titulo": "Tormenta carmesí. Tomo II. Colección de misterio",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MISTERIOII.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1703,8 +1703,8 @@
                                         "titulo": "La reina de la oscuridad de Fernanda Cuevas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LAREINADELAOSCURIDAD.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "320.00"
                                     },
@@ -1713,8 +1713,8 @@
                                         "titulo": "Penitencia de Lucien García Salinas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PENITENCIA1%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1733,8 +1733,8 @@
                                         "titulo": "Encuentro infame. Colección de terror ecuatoriano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ENCUENTROINFAME.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1743,8 +1743,8 @@
                                         "titulo": "Ventanas al futuro. Colección de ciencia Ficción",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/VENTANAS%20AL%20FUTURO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1753,8 +1753,8 @@
                                         "titulo": "Sombras y secretos en penumbra. Colección de terror colombiano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERRORCOLOMBIANO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1763,8 +1763,8 @@
                                         "titulo": "Relatos de escolares incomprendidos de Pablo Navarrete",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/relatos-final.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1773,8 +1773,8 @@
                                         "titulo": "Zion. Volumen II de Laura Fuentes",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ZION.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1783,8 +1783,8 @@
                                         "titulo": "Sonata de corazones flagelados. Tomo I. Colección de desamor",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SONATADECORAZONESI.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1793,8 +1793,8 @@
                                         "titulo": "Sonata de corazones flagelados. Tomo II. Colección de desamor",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SONATADECORAZONESII.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1816,8 +1816,8 @@
                                         "titulo": "Entre espinas y versos. Colección de poesía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1826,8 +1826,8 @@
                                         "titulo": "Entre rosas y versos. Colección de poesía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1846,8 +1846,8 @@
                                         "titulo": "Lamentos del bosque. Tomo I. Colección de terror rural",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1856,8 +1856,8 @@
                                         "titulo": "Lamentos del bosque. Tomo II. Colección de terror rural",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -1866,8 +1866,8 @@
                                         "titulo": "Las niñas no se tocan de Allure Spinoza",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASNI%C3%91ASNOSETOCAN.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1876,8 +1876,8 @@
                                         "titulo": "Universos en miniatura. Tomo I. Colección de microhistorias",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/UNIVERSOENMINIATURAI.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1886,18 +1886,18 @@
                                         "titulo": "Universos en miniatura. Tomo II. Colección de microhistorias",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/UNIVERSOENMINIATURAIII.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-180",
                                         "titulo": "La condena. Colección de cuento apocalíptico",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CONDENA.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1914,7 +1914,7 @@
                                     {
                                         "id": "Palabra-182",
                                         "titulo": "Historial de muladares de Dely M. Dominguez P.",
-                                        "imagen": "Historial de muladares de Dely M. Dominguez P.","imagen":"https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/HISTORIALDEMULDARES.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -1926,8 +1926,8 @@
                                         "titulo": "Solo quedaron las cáscaras de Nicole Sánchez Castillo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1936,8 +1936,8 @@
                                         "titulo": "Memorias de un charlatán de Tadeo Tarot",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MEMORIASDEUNCHARLAT%C3%81N.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1946,8 +1946,8 @@
                                         "titulo": "La breve historia de una galaxia en la tierra de Mauricio Morales Bautista",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LABREVEHISTORIA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1964,7 +1964,7 @@
                                     {
                                         "id": "Palabra-187",
                                         "titulo": "Ladridos de quiltro de Patricio Leonardo Araus",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/LADRILLOSDEQUILTRODIBUJO.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -1974,10 +1974,10 @@
                                     {
                                         "id": "Palabra-188",
                                         "titulo": "Pasiones ominosas de Amaury R. Ledesma",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/PASIONESOMINOSAS.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -1986,8 +1986,8 @@
                                         "titulo": "13 historias inconexas de Néstor Nis Mendía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/13HISTORIAS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "160.00"
                                     },
@@ -1996,8 +1996,8 @@
                                         "titulo": "Beso tu nombre. Antología de poesía colombiana",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POES%C3%8DACOLOMBIAN.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2006,8 +2006,8 @@
                                         "titulo": "Criaturas nocturnas. Tomo I. Colección de monstruos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201%20(2).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2016,8 +2016,8 @@
                                         "titulo": "Criaturas nocturnas. Tomo II. Colección de monstruos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202%20(2).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2034,10 +2034,10 @@
                                     {
                                         "id": "Palabra-194",
                                         "titulo": "El lápiz mígico, el reino de Florent de Franck Cilia",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2046,8 +2046,8 @@
                                         "titulo": "La leyenda de los zopilotes de Iztacalco de Yakamí Jorge Barrón Machado",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2056,8 +2056,8 @@
                                         "titulo": "Memorias del olvido. Antología de poesía no romántica",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/NOROMANTICO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2066,8 +2066,8 @@
                                         "titulo": "La vida de Helena de F. J López",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LAVIDADEHELENA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2086,8 +2086,8 @@
                                         "titulo": "Aimíe entre deseos de C. K. Montoya",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AIM%C3%89.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "320.00"
                                     },
@@ -2096,8 +2096,8 @@
                                         "titulo": "Revelada de Daniela Anchundia",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/REVELADA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2116,14 +2116,14 @@
                                         "titulo": "Paraíso mírbido de César Bañuelos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PARA%C3%8DSOM%C3%93RBIDO.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-203",
-                                        "titulo": "Las mAlas juntas de Max Jecklin",
+                                        "titulo": "Las malas juntas de Max Jecklin",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASMAlasJUNTAS%20RGB_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
                                             "nombre": "Palabra",
@@ -2154,10 +2154,10 @@
                                     {
                                         "id": "Palabra-206",
                                         "titulo": "El marinero que viajó por el multiverso de L. Yanes",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA%20(1).png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2174,10 +2174,10 @@
                                     {
                                         "id": "Palabra-208",
                                         "titulo": "Campo de poemas bordado. Antología de poesía chilena",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CAMPODEPOEMASBORDADOS_Mesa%20de%20trabajo%201_Mesa%20d.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2186,8 +2186,8 @@
                                         "titulo": "Existen los fantasmas de Leandro Daniel Olguín",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EXISTENFANTASMAS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2196,8 +2196,8 @@
                                         "titulo": "Emociones en Viñetas. Colección de manga",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/EMOCIONESENVI%C3%91ETAS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Mangaka",
+                                            "id": "Mangaka"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2206,8 +2206,8 @@
                                         "titulo": "Cerebros fragmentados. Colección de relatos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CEREBROSFRAGMENTADOS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2216,8 +2216,8 @@
                                         "titulo": "Galería de sombras I. Colección de terror mexicano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201TERRORMEXICA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2226,8 +2226,8 @@
                                         "titulo": "Galería de sombras II. Colección de terror mexicano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202TERRORMEXICA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2236,8 +2236,8 @@
                                         "titulo": "Segunda oportunidad de Camila R. GarcÍa",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SEGUNAOPORTUNIDADPORTADA.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2246,8 +2246,8 @@
                                         "titulo": "Albor de un romance I. Antología de poesía romíntica",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201ALBOR.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2256,28 +2256,28 @@
                                         "titulo": "Albor de un romance II. Antología de poesía romíntica",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202ALBOR.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-217",
                                         "titulo": "Laberintos de la locura. Tomo I. Colección de relatos",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/DESORDENMENTAL_Mesa%20de%20trabajo%201%20copia.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-218",
                                         "titulo": "Laberintos de la locura. Tomo II. Colección de relatos",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/DESORDENMENTAL-03.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2286,18 +2286,18 @@
                                         "titulo": "Las historias de mi Taita de Nicole George",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20(2).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "160.00"
                                     },
                                     {
                                         "id": "Palabra-220",
                                         "titulo": "Aurora. Parte 2 de Joel Cortés MartÍnez",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AURORA.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "380.00"
                                     },
@@ -2314,10 +2314,10 @@
                                     {
                                         "id": "Palabra-222",
                                         "titulo": "Karma: luz y oscuridad de Gabriel San Andrés Mendoza",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/KARMA.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2326,8 +2326,8 @@
                                         "titulo": "After deus de AxlDylxn",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADADEUS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "320.00"
                                     },
@@ -2336,8 +2336,8 @@
                                         "titulo": "Relatos para desvanecerse. Colección de casas abandonadas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACASASABANDONADAS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2346,8 +2346,8 @@
                                         "titulo": "Relicarios de tinta. Colección de microhistorias",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RELICARIODETINTA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "280.00"
                                     },
@@ -2356,8 +2356,8 @@
                                         "titulo": "Entre risas y caos. Colección de cuento cómico",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/C%C3%93MICO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2366,8 +2366,8 @@
                                         "titulo": "E-book Chloe de Kenji Ikenaga",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CHLOE.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2376,8 +2376,8 @@
                                         "titulo": "E-book Fábrica de versos.",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portadafabricadeversos%20(1).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2386,8 +2386,8 @@
                                         "titulo": "El gran Dios macabro de Sr. Soledad",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELDIOSMACABRO3.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "210.00"
                                     },
@@ -2396,8 +2396,8 @@
                                         "titulo": "E-book Zion. Volumen 1. Las almas de luz de Laura Fuentes",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ZION%20PARTE%20I.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2406,28 +2406,28 @@
                                         "titulo": "E-book Zion. Volumen II. El puente de Laura Fuentes",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ZION%20PARTE%20II.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
                                     {
                                         "id": "Palabra-232",
                                         "titulo": "E-book Destinos entrelazados I.",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1-633c965.png/:/rs=w:397,h:612",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "80.00"
                                     },
                                     {
                                         "id": "Palabra-233",
                                         "titulo": "E-books Destinos entrelazados II",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/2-39d5b1a.png/:/rs=w:397,h:612",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2456,8 +2456,8 @@
                                         "titulo": "E-book Las niñas no se tocan de Allure Spinoza",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASNI%C3%91ASNOSETOCAN-77e55b7.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2466,8 +2466,8 @@
                                         "titulo": "E-book Lukka Black de Eli R.G.",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lukka-black-cbfd362.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2476,8 +2476,8 @@
                                         "titulo": "E-book Trenzas de Mario Torres Dujisin",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Portada%20trenzas.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2486,8 +2486,8 @@
                                         "titulo": "E-book Los consultantes. Historias de horror de Ana María Elizondo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANA-MARIA-ELIZONDO%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2496,8 +2496,8 @@
                                         "titulo": "Legado de hechizos. Colección de brujas y hechicería",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/BRUJASYHECHICER%C3%8DA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2506,8 +2506,8 @@
                                         "titulo": "Travesías insólitas. Colección de cuento de aventura",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TRAVES%C3%8DASINS%C3%93LITAS-01.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2516,8 +2516,8 @@
                                         "titulo": "La tierra del miedo. Los sueños del cuervo 4",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/La%20tierra%20del%20miedo.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2536,8 +2536,8 @@
                                         "titulo": "Dulce distancia. Colección de cuento romance",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Dulce%20distancia.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2546,8 +2546,8 @@
                                         "titulo": "E-book Ángeles abandonados de José Servín",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANGELESABANDONADOS-2e40e86.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2576,15 +2576,15 @@
                                         "titulo": "Los agonizantes de R. C. Leteo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LOSAGONIZANTES.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "170.00"
                                     },
                                     {
                                         "id": "Palabra-249",
                                         "titulo": "El hombre que me mató de Fiorela Navarro",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/ELHOMBREQUEMEMAT%C3%93.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
                                             "nombre": "Palabra",
                                             "id": "Palabra"
@@ -2594,20 +2594,20 @@
                                     {
                                         "id": "Palabra-250",
                                         "titulo": "E-book El demonio de la perversidad de David Kolkrabe",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20el%20demonio.webp/:/rs=w:400,h:637",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "80.00"
                                     },
                                     {
                                         "id": "Palabra-251",
                                         "titulo": "E-book ¿Es el viento el que aúlla? de Arturo Panero González",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/3.png/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2626,8 +2626,8 @@
                                         "titulo": "Esta sarta de mentiras de Marcela Gutiérrez Bravo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2636,8 +2636,8 @@
                                         "titulo": "Sangre de héroes. Colección de cuento rural colombiano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portada%20(3).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2646,8 +2646,8 @@
                                         "titulo": "Hogar, dulce hogar de Raven Yoru",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HOGAR%2C%20DUCLECHOGAR.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2656,8 +2656,8 @@
                                         "titulo": "Panteón de versos vivos. Colección de calaveritas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACALAVERITAS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2666,8 +2666,8 @@
                                         "titulo": "El país de los cereales de José Ramín Jiménez",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ELPAISDELOSCEREALES_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2676,8 +2676,8 @@
                                         "titulo": "Humo en los ojos de José Luis Aguirre",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HUMOENLOSOJOS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2686,8 +2686,8 @@
                                         "titulo": "Olas de tinta roja. Colección de poesía mexicana",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POES%C3%8DAMEXICANA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2696,8 +2696,8 @@
                                         "titulo": "Todas las noches de Jordi Almeida",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TODASLASNOCHES_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2706,8 +2706,8 @@
                                         "titulo": "Rostros de la noche I. Colección de terror",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201%20(4).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2716,8 +2716,8 @@
                                         "titulo": "Rostros de la noche II. Colección de terror",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202%20(4).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2736,8 +2736,8 @@
                                         "titulo": "Reliquias de los condenados. Colección de objetos malditos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RELIQUIASDELOSCONDENADOS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2746,8 +2746,8 @@
                                         "titulo": "A donde mire, siempre hay alguien. Colección de leyendas urbanas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LEYENDASURBANAS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2756,18 +2756,18 @@
                                         "titulo": "Fiesta de luces y sombra. Colección día de muertos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202024-03-19%20at%201.41.06%20PM.jpeg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "350.00"
                                     },
                                     {
                                         "id": "Palabra-267",
                                         "titulo": "Señores del salitre de Franco Álvarez",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/dff84339-fe53-4d88-9ea2-700ade5dae80/ols/SE%C3%91ORSALITRES.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "400.00"
                                     },
@@ -2776,8 +2776,8 @@
                                         "titulo": "Fisuras del alma I. Colección de poesía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AMOR_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2786,18 +2786,18 @@
                                         "titulo": "Fisuras del alma II. Colección de poesía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AMOR_Mesa%20de%20trabajo%201%20copia.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "230.00"
                                     },
                                     {
                                         "id": "Palabra-270",
                                         "titulo": "Ojeras de Faviola Llamas",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Ojeras.jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2806,8 +2806,8 @@
                                         "titulo": "Voces de la urbe. Colección de cuento urbano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOURBANO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2816,8 +2816,8 @@
                                         "titulo": "Mosaico de place. Antología de poesía erótica",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POES%C3%8DAEROTICA.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2826,8 +2826,8 @@
                                         "titulo": "E-book. Solo quedaron las cÓscaras de Nicole Sánchez Castillo",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS%20(1).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2836,8 +2836,8 @@
                                         "titulo": "Colores del malecón. Colección de cuento guayaquileño",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOGUAYAQUILE%C3%91O.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2856,8 +2856,8 @@
                                         "titulo": "Arde en mi memoria. Antología de poesía ecuatoriana",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ARDEENMIMEORIA_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2866,8 +2866,8 @@
                                         "titulo": "E-book Hijos del Rey de W.M. Setnom",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HIJOSDELREY-eaffc2b.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2876,8 +2876,8 @@
                                         "titulo": "Desde la raíz. Antología de poesía peruana",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/DESDELARAIZ.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2896,8 +2896,8 @@
                                         "titulo": "Tierra entre la boca quieta de Ricardo Tello Tovar",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TIERRAENTRELABOCAQUIETA_Mesa%20de%20trabajo%201%20copi.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2906,8 +2906,8 @@
                                         "titulo": "Padre a(r)mado de Armando de Jesús Saint-Martin Gutiérrez",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PADREARMADO.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "170.00"
                                     },
@@ -2916,8 +2916,8 @@
                                         "titulo": "E-book Carnes, huesos y pellejos - Dilan Chino Sandoval",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CARNES-23b8e90.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "80.00"
                                     },
@@ -2936,8 +2936,8 @@
                                         "titulo": "Impulsos desenfrenados. Colección de terror cruel",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERRORCRUEL%20(2).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "290.00"
                                     },
@@ -2946,8 +2946,8 @@
                                         "titulo": "Panal de versos. Antología de minipoemas",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PANALDEVERSOS_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Converso",
+                                            "id": "Converso"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2956,8 +2956,8 @@
                                         "titulo": "Caos indomable. Colección de terror psicológico",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TERRORPSICOL%C3%93GICO.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2966,8 +2966,8 @@
                                         "titulo": "Postal de los recuerdos. Colección de poesía",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/POSTALDELOSRECUERDOS_Mesa%20de%20trabajo%201%20(1).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "400.00"
                                     },
@@ -2976,8 +2976,8 @@
                                         "titulo": "Ciento ochenta grados. Colección de microhistorias",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MICROHISTORIAS2.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "230.00"
                                     },
@@ -2986,8 +2986,8 @@
                                         "titulo": "Cese al fuego. Colección conflicto y paz",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACESE.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "170.00"
                                     },
@@ -3006,8 +3006,8 @@
                                         "titulo": "Canción de primavera: una pandemia de pájaros de J.S. Sellanes",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CANCI%C3%93NDEPRIMAVERA_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "170.00"
                                     },
@@ -3016,8 +3016,8 @@
                                         "titulo": "Cartas imperecederas. Colección de carta epistolar",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADACARTAS.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3026,8 +3026,8 @@
                                         "titulo": "Letras y muérdagos. Colección de navidad",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CUENTOSDENAVIDAD.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "290.00"
                                     },
@@ -3036,8 +3036,8 @@
                                         "titulo": "Disipación etérea. Colección de animales",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANIMALES-01.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "170.00"
                                     },
@@ -3046,8 +3046,8 @@
                                         "titulo": "Los pinos de Fernando Michel",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LOSPINOS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3066,8 +3066,8 @@
                                         "titulo": "Ritmos de la tierra. Colección de cuento latinoamericano",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/RITMOSDELATIERRA.png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "komala",
+                                            "id": "komala"
                                         },
                                         "precio": "290.00"
                                     },
@@ -3077,8 +3077,8 @@
                                         "titulo": "Bestiario de pesadillas Tomo I. Colección de monstruos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%201%20(5).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3087,8 +3087,8 @@
                                         "titulo": "Bestiario de pesadillas Tomo II. Colección de monstruos",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Mesa%20de%20trabajo%202%20(5).jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3097,8 +3097,8 @@
                                         "titulo": "Érase una vez, el apocalipsis. Colección de cuento apocalíptico",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/PORTADA%20(4).png",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3107,8 +3107,8 @@
                                         "titulo": "Penumbra austral. Colección de terror chileno",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/terrorchileno.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Alas",
+                                            "id": "Alas"
                                         },
                                         "precio": "340.00"
                                     },
@@ -3117,8 +3117,8 @@
                                         "titulo": "Tierra querida. Colección recorriendo Colombia",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/TIERRAQUERIDA2.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3127,8 +3127,8 @@
                                         "titulo": "Historias al pastor. Colección de gastronomía mexicana",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/GASTRONOM%C3%8DA_Mesa%20de%20trabajo%201.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "210.00"
                                     },
@@ -3137,8 +3137,8 @@
                                         "titulo": "Historias de medianoche. Colección de cuentos paranormales",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HISTORIASDEMEDIANOCHE.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Akera",
+                                            "id": "Akera"
                                         },
                                         "precio": "230.00"
                                     },
@@ -3157,18 +3157,18 @@
                                         "titulo": "Aguas oscuras y otros relatos de Mirta Durán",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/AGUASOSCURAS.jpg",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "Komala",
+                                            "id": "Komala"
                                         },
                                         "precio": "170.00"
                                     },
                                     {
                                         "id": "Palabra-307",
                                         "titulo": "Reflejos de los Andes. Colección de cuento medioambiental",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/MEDIOAMBIENTE_Mesa%20de%20trabajo%201%20(1).jpg/:/rs=w:684,h:684",
+                                        "imagen": "",
                                         "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
+                                            "nombre": "LetrasNegras",
+                                            "id": "LetrasNegras"
                                         },
                                         "precio": "170.00"
                                     }

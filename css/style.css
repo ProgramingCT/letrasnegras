@@ -514,7 +514,7 @@ a:focus {
 .banner {
   position: relative;
   overflow: hidden;
-  background: #fff;
+  background-color: #000000;
   background: url("../images/bg/slider-bg-1.png") no-repeat ;
   background-size: cover;
   min-height: 600px;

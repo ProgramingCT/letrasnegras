@@ -7,6 +7,7 @@
 
 	<title>Letras Negras</title>
 
+	
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
 
@@ -115,6 +116,8 @@
 	</section>
 
 	<style>
+
+		
 		.custom-large-image {
 			width: 100%; /* Ancho al 100% del contenedor */
 			height: auto; /* Altura automática para mantener la proporción */
@@ -144,9 +147,71 @@
 			margin-top: 20px; /* Espacio arriba del texto */
 			color: white; /* Color de texto blanco */
 		}
-	</style>
+
+
+		/* Main Stylesheet */
+/* fondo de imagen. */
+
+.bg-image {
+    background-image: url('images/bg/fondo.jpg'); /* Ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 60px 0; /* Ajusta el padding según tus necesidades */
+    color: white;
+    text-align: center;
+}
+
+.bg-image .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   /* background: rgba(255, 253, 253, 0.589); /* Añade una superposición oscura */
+}
+
+.bg-image .container {
+    position: relative;
+    z-index: 1; 
+}
+
+/* Otros estilos necesarios */
+.custom-large-image {
+    width: 100%; /* Ancho al 100% del contenedor */
+    height: auto; /* Altura automática para mantener la proporción */
+    border: 5px solid #adacac; /* Borde blanco de 5px */
+    border-radius: 20px; /* Borde redondeado */
+    box-shadow: 0 0 20px rgba(131, 117, 117, 0.1); /* Sombra suave */
+}
+
+.image-container {
+    max-width: 100%; /* Ancho máximo para el contenedor */
+    height: 500px; /* Altura fija para el contenedor */
+    display: flex; /* Usa un contenedor flexible */
+    justify-content: center; /* Centra la imagen horizontalmente */
+    align-items: center; /* Centra la imagen verticalmente */
+    overflow: hidden; /* Oculta el desbordamiento de la imagen */
+    margin-bottom: 20px; /* Espacio inferior */
+}
+
+.blog-item {
+    display: flex; /* Contenedor de elementos flexible */
+    flex-direction: column; /* Alinea los elementos en columna */
+    align-items: center; /* Centra horizontalmente */
+    text-align: center; /* Centra el texto dentro del contenedor */
+}
+
+.blog-content {
+    margin-top: 20px; /* Espacio arriba del texto */
+    color: rgb(255, 255, 255); /* Color de texto blanco */
+}
+
+</style>
 	
-	<section class="section blog-wrap">
+	<section class="section blog-wrap bg-image">
+		<div class="overlay"></div>
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-6 col-md-12 mb-5">
@@ -167,6 +232,7 @@
 		</div>
 	</section>
 	
+	
 
 
 	<!-- footer Start -->
@@ -179,7 +245,7 @@
 							<img src="images/bg/LOGOTIPO-07 (3) (1).png" alt="" class="img-fluid">
 						</div>
 						<p>A la fecha, nos hemos logrado posicionar como una de las editoriales independientes más grandes de habla hispana en el mundo. Hemos publicado a más de cinco mil autores de todo Hispanoamérica.
-
+							
 						</p>
 
 						<ul class="list-inline footer-socials mt-4">

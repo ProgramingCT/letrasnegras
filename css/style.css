@@ -122,8 +122,8 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .btn-main:hover {
-  background: #ee8a50;
-  border-color: #ee8a50;
+  background: wigdet;
+  border-color: footer;
   color: #fff;
 }
 
@@ -1322,7 +1322,7 @@ a:focus {
   bottom: 0px;
   width: 35px;
   height: 3px;
-  background: #e12454;
+  background: #ee8a50;
 }
 
 .sidebar-widget.latest-post .media img {
@@ -1435,7 +1435,7 @@ a:focus {
 }
 
 .widget .footer-menu a:hover {
-  color:  #00ff88;
+  color:  #ee8a50;
 }
 
 .footer-contact-block span {
@@ -1468,7 +1468,7 @@ a:focus {
 }
 
 .widget-contact h6 i {
-  color: #e12454;
+  color: #ee8a50;
 }
 
 .subscribe {

@@ -1213,18 +1213,18 @@
                                         "titulo": "El sentenciar de la tenebrosidad de Jhon Fredy Aguillón Romero",
                                         "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/1%20(1).png",
                                         "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
+                                            "nombre": "Palabra",
+                                            "id": "Palabra"
                                         },
                                         "precio": "210.00"
                                     },
                                     {
                                         "id": "Palabra-114",
                                         "titulo": "Wayak: Visión entre sueños de Laura Aguilar Ramírez",
-                                        "imagen": "",
+                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/arte.png/:/rs=w:684,h:684",
                                         "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
+                                            "nombre": "Palabra",
+                                            "id": "Palabra"
                                         },
                                         "precio": "210.00"
                                     },

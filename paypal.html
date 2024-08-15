@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de Compras</title>
+    <!-- Incluye Bootstrap para el diseño -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Incluye el SDK de PayPal -->
+    <script src="https://www.paypal.com/sdk/js?client-id=ARlfMqP2lkia0ONVfxPB1e4QuIKcc9MH2s0xYf1dUn-W8N2LCA9KxzPd7Ytb3VrW3Lju1xtUiLX4SlRm"></script>
+    <link rel="stylesheet" href="style.css"> <!-- Enlace al archivo CSS -->
+</head>
+<body>
+    <div class="container">
+        <h1 class="my-4">Tienda</h1>
+        <div id="products" class="row"></div>
+        
+        <h2 class="my-4">Carrito de Compras</h2>
+        <div id="cart" class="card p-4">
+            <ul id="cart-items" class="list-group"></ul>
+            <h3>Total: $<span id="total-price">0</span></h3>
+            <div id="paypal-button-container"></div> <!-- Aquí va el botón de PayPal -->
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

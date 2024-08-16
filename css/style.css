@@ -530,7 +530,7 @@ a:focus {
 /* Estilos para tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   .banner {
-    min-height: 500px; /* Ajusta la altura para tablets */
+    min-height: 300px; /* Ajusta la altura para tablets */
   }
 }
 

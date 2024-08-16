@@ -274,10 +274,22 @@ main {
     color: var(--clr-white);
     text-transform: uppercase;
     cursor: pointer;
-    border-top-right-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-radius: 1rem; /* Radio del borde igual en todos los lados */
+    display: inline-block; /* Para que el botón se ajuste a su contenido */
+    text-align: center; /* Centra el texto */
 }
-
+.carrito-acciones-comprar2 {
+    
+        border: 0;
+        background-color: var(--clr-main);
+        padding: 1rem;
+        color: var(--clr-white);
+        text-transform: uppercase;
+        cursor: pointer;
+        border-radius: 1rem; /* Radio del borde igual en todos los lados */
+        display: inline-block; /* Para que el botón se ajuste a su contenido */
+        text-align: center; /* Centra el texto */
+    }
 .header-mobile {
     display: none;
 }

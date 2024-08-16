@@ -28,7 +28,6 @@ document.querySelectorAll('.testimonial-block').forEach(block => {
         $('.backtop').removeClass('reveal');
     }
 });
- 
 	$('.portfolio-single-slider').slick({
 		infinite: true,
 		arrows: false,
@@ -46,13 +45,13 @@ document.querySelectorAll('.testimonial-block').forEach(block => {
 		autoplaySpeed: 6000,
 		responsive: [
 		    {
-		      breakpoint: 1024,
-		      settings: {
-		        slidesToShow:6,
-		        slidesToScroll: 6,
-		        infinite: true,
-		        dots: true
-		      }
+		     breakpoint: 1024,
+		    settings: {
+		    slidesToShow:6,
+		    slidesToScroll: 6,
+		    infinite: true,
+		     dots: true
+		    }
 		    },
 		    {
 		      breakpoint: 900,

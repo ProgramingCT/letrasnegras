@@ -357,16 +357,7 @@
                         },
                         "precio": "280.00"
                     },
-                    {
-                        "id": "Palabra-30",
-                        "titulo": "Pedido con envío Colección de terror Ecuador",
-                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/WhatsApp%20Image%202022-11-28%20at%2011.16.33%20AM.jpeg",
-                        "categoria": {
-                            "nombre": "Palabra",
-                            "id": "Palabra"
-                        },
-                        "precio": "593.00"
-                    },
+
                     {
                         "id": "Palabra-31",
                         "titulo": "\"SILUETA, la sombra del pasado\" de Fernando Covantes",
@@ -2351,26 +2342,7 @@
                                         },
                                         "precio": "210.00"
                                     },
-                                    {
-                                        "id": "Palabra-227",
-                                        "titulo": "E-book Chloe de Kenji Ikenaga",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CHLOE.png",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-228",
-                                        "titulo": "E-book Fábrica de versos.",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/portadafabricadeversos%20(1).png",
-                                        "categoria": {
-                                            "nombre": "Komala",
-                                            "id": "Komala"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                
                                     {
                                         "id": "Palabra-229",
                                         "titulo": "El gran Dios macabro de Sr. Soledad",
@@ -2381,106 +2353,7 @@
                                         },
                                         "precio": "210.00"
                                     },
-                                    {
-                                        "id": "Palabra-230",
-                                        "titulo": "E-book Zion. Volumen 1. Las almas de luz de Laura Fuentes",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ZION%20PARTE%20I.jpg",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-231",
-                                        "titulo": "E-book Zion. Volumen II. El puente de Laura Fuentes",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ZION%20PARTE%20II.jpg",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-232",
-                                        "titulo": "E-book Destinos entrelazados I.",
-                                        "imagen": "",
-                                        "categoria": {
-                                            "nombre": "Komala",
-                                            "id": "Komala"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-233",
-                                        "titulo": "E-books Destinos entrelazados II",
-                                        "imagen": "",
-                                        "categoria": {
-                                            "nombre": "Komala",
-                                            "id": "Komala"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-234",
-                                        "titulo": "E-book Escudos de carton de Corallys Cordero",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ESCUDOSDECART%C3%93N%20(2).png",
-                                        "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-235",
-                                        "titulo": "E-book La semilla de la locura de Rafael Miranda",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SEMILLADELOCURA-829ce4b.png",
-                                        "categoria": {
-                                            "nombre": "Palabra",
-                                            "id": "Palabra"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-236",
-                                        "titulo": "E-book Las niñas no se tocan de Allure Spinoza",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/LASNI%C3%91ASNOSETOCAN-77e55b7.png",
-                                        "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-237",
-                                        "titulo": "E-book Lukka Black de Eli R.G.",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/lukka-black-cbfd362.jpg",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-238",
-                                        "titulo": "E-book Trenzas de Mario Torres Dujisin",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/Portada%20trenzas.jpeg",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-239",
-                                        "titulo": "E-book Los consultantes. Historias de horror de Ana María Elizondo",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANA-MARIA-ELIZONDO%20(1).jpg",
-                                        "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-240",
                                         "titulo": "Legado de hechizos. Colección de brujas y hechicería",
@@ -2531,16 +2404,7 @@
                                         },
                                         "precio": "230.00"
                                     },
-                                    {
-                                        "id": "Palabra-245",
-                                        "titulo": "E-book Ángeles abandonados de José Servín",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/ANGELESABANDONADOS-2e40e86.jpg",
-                                        "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-246",
                                         "titulo": "Fragmentos el pensamiento I. Colección de monólogos",
@@ -2581,26 +2445,7 @@
                                         },
                                         "precio": "230.00"
                                     },
-                                    {
-                                        "id": "Palabra-250",
-                                        "titulo": "E-book El demonio de la perversidad de David Kolkrabe",
-                                        "imagen": "",
-                                        "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
-                                        },
-                                        "precio": "80.00"
-                                    },
-                                    {
-                                        "id": "Palabra-251",
-                                        "titulo": "E-book ¿Es el viento el que aúlla? de Arturo Panero González",
-                                        "imagen": "",
-                                        "categoria": {
-                                            "nombre": "Alas",
-                                            "id": "Alas"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-252",
                                         "titulo": "El caminar de sol. Colección de cuento español",
@@ -2811,16 +2656,7 @@
                                         },
                                         "precio": "230.00"
                                     },
-                                    {
-                                        "id": "Palabra-273",
-                                        "titulo": "E-book. Solo quedaron las cÓscaras de Nicole Sánchez Castillo",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/SOLOQUEDAR%C3%93NCASCARAS%20(1).png",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-274",
                                         "titulo": "Colores del malecón. Colección de cuento guayaquileño",
@@ -2851,16 +2687,7 @@
                                         },
                                         "precio": "230.00"
                                     },
-                                    {
-                                        "id": "Palabra-277",
-                                        "titulo": "E-book Hijos del Rey de W.M. Setnom",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/HIJOSDELREY-eaffc2b.png",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-278",
                                         "titulo": "Desde la raíz. Antología de poesía peruana",
@@ -2901,16 +2728,7 @@
                                         },
                                         "precio": "170.00"
                                     },
-                                    {
-                                        "id": "Palabra-282",
-                                        "titulo": "E-book Carnes, huesos y pellejos - Dilan Chino Sandoval",
-                                        "imagen": "https://img1.wsimg.com/isteam/ip/fc541602-10ce-4970-a0b0-ce0793e99f6c/ols/CARNES-23b8e90.png",
-                                        "categoria": {
-                                            "nombre": "Akera",
-                                            "id": "Akera"
-                                        },
-                                        "precio": "80.00"
-                                    },
+                                    
                                     {
                                         "id": "Palabra-283",
                                         "titulo": "Arpegio de emociones. Colección de clave de do",

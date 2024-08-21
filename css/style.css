@@ -57,7 +57,7 @@ p {
 }
 
 .navbar-toggle .icon-bar {
-  background: #223a66;
+  background: #ffffff;
 }
 
 input[type="email"], input[type="password"], input[type="text"], input[type="tel"] {
@@ -530,14 +530,14 @@ a:focus {
 /* Estilos para tablets */
 @media (min-width: 768px) and (max-width: 991px) {
   .banner {
-    min-height: 300px; /* Ajusta la altura para tablets */
+    min-height: 350px; /* Ajusta la altura para tablets */
   }
 }
 
 /* Estilos para móviles */
 @media (max-width: 767px) {
   .banner {
-    min-height: 400px; /* Ajusta la altura para móviles */
+    min-height: 350px; /* Ajusta la altura para móviles */
   }
 }
 
@@ -1569,4 +1569,30 @@ a:focus {
   right: 10px;
   font-size: 2em;
   color: #ddd;
+}
+
+/* Paginación */
+#paginacion {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.boton-pagina {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.boton-pagina.active,
+.boton-pagina:hover {
+    background-color: #000000;
+    color: #ffffff;
 }

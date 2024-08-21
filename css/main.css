@@ -423,3 +423,16 @@ main {
 .boton-buscar i {
     margin-right: 0;
 }
+
+
+/*# altura y ancho de los productos */
+.producto {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 250px; /* ancho de los productos */
+    margin: 0 auto; /* Centra los productos */
+    height: 550px; /* altura de los productos */
+
+}

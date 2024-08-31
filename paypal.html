@@ -58,17 +58,19 @@
             </div>
 
             <div id="carrito-acciones" class="carrito-acciones disabled">
-                <div class="carrito-acciones-izquierda">
-                    <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
-                    
-                </div>
                 
                 <div class="carrito-acciones-derecha">
                     <div class="carrito-acciones-total">
-                        <p>Total:</p>
-                        <p id="total">$0</p> <!-- El total se actualizará dinámicamente con JavaScript -->
+                        <p>Total:
+                            <span id="total">$0</span>
+                        </p>
+                        <div class="carrito-acciones-izquierda">
+                            <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                        </div>
                     </div>
-                    <div id="paypal-button-container" class="carrito-acciones-comprar"></div> <!-- Botón de PayPal -->
+                    <div id="paypal-button-container" class="carrito-acciones-comprar">
+                        
+                    </div> <!-- Botón de PayPal -->
                 </div>
             </div>
 

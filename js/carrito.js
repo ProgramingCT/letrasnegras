@@ -66,7 +66,8 @@ function actualizarBotonesEliminar() {
     botonesEliminar = document.querySelectorAll(".carrito-producto-eliminar");
 
     botonesEliminar.forEach(boton => {
-        boton.addEventListener("click", eliminarDelCarrito);
+        boton.removeEventListener("click", eliminarDelCarrito); // Primero eliminamos cualquier evento previo
+        boton.addEventListener("click", eliminarDelCarrito); // Luego asignamos el evento nuevamente
     });
 }
 
@@ -89,15 +90,30 @@ function eliminarDelCarrito(e) {
             y: '1.5rem' 
         },
         onClick: function(){} 
-      }).showToast();
+    }).showToast();
 
     const idBoton = e.currentTarget.id;
     const index = productosEnCarrito.findIndex(producto => producto.id === idBoton);
     
+    // Elimina el producto del array
     productosEnCarrito.splice(index, 1);
-    cargarProductosCarrito();
 
+    // Actualiza el localStorage
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
+
+    // Elimina el elemento del DOM
+    e.currentTarget.parentElement.remove();
+
+    // Actualiza el total
+    actualizarTotal();
+
+    // Si ya no hay productos en el carrito, mostrar la vista del carrito vacío
+    if (productosEnCarrito.length === 0) {
+        contenedorCarritoVacio.classList.remove("disabled");
+        contenedorCarritoProductos.classList.add("disabled");
+        contenedorCarritoAcciones.classList.add("disabled");
+        contenedorCarritoComprado.classList.add("disabled");
+    }
 }
 
 botonVaciar.addEventListener("click", vaciarCarrito);
@@ -156,7 +172,6 @@ function renderizarPaypal() {
     paypal.Buttons({
         style: {
             layout: 'vertical',
-            color: 'blue',
             shape: 'rect',
             label: 'paypal'
         },
@@ -176,4 +191,6 @@ function renderizarPaypal() {
             });
         }
     }).render('#paypal-button-container');
+
 }
+

@@ -6,6 +6,7 @@
     --clr-white: #ececec;
     --clr-gray: #e2e2e2;
     --clr-red: #961818;
+    --clr-yellow: #ff0;
 }
 
 * {
@@ -239,57 +240,94 @@ main {
 
 .carrito-acciones {
     display: flex;
+    flex-direction: column ;
     justify-content: space-between;
 }
 
 .carrito-acciones-vaciar {
-    border: 0;
-    background-color: var(--clr-gray);
+   
+    background-color: rgb(0, 0, 0);
     padding: 1rem;
+    font-size: 1rem;
     border-radius: 1rem;
-    color: var(--clr-main);
+    border-color: #000000;
+    border-width: .2rem;
+    border-style:solid;
+    color: white;
     text-transform: uppercase;
     cursor: pointer;
 }
 
 .carrito-acciones-derecha {
     display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.carrito-acciones {
+    display: flex;
+    align-items: center;
+    width: 100%; /* Asegura que el contenedor ocupe el ancho completo */
+    gap: 1rem; /* Espacio entre el total y el contenedor de los botones */
 }
 
 .carrito-acciones-total {
     display: flex;
+    justify-content:space-between;
+    align-items: center;
     background-color: var(--clr-gray);
-    padding: 1rem;
+    padding: 2rem; /* Aumenta el padding para hacerlo más grande */
     color: var(--clr-main);
     text-transform: uppercase;
-    border-top-left-radius: 1rem;
-    border-bottom-left-radius: 1rem;
-    gap: 1rem;
+    border-top-left-radius: 2rem; /* Aumenta el radio del borde */
+    border-bottom-left-radius: 2rem; /* Aumenta el radio del borde */
+    gap: 1.5rem; /* Espacio interno entre el total y el contenido */
+    font-size: 1.5rem; /* Aumenta el tamaño del texto */
+    flex: 1; /* Permite que este elemento ocupe el máximo espacio disponible */
 }
 
-.carrito-acciones-comprar {
+.carrito-acciones-botones {
+    display: flex; /* Hace que los botones se alineen horizontalmente */
+    gap: 1rem; /* Espacio entre los botones */
+}
+
+.carrito-acciones-comprar,
+.carrito-acciones-comprar2 {
     border: 0;
     background-color: var(--clr-main);
-    padding: 1rem;
+    padding: 2rem; /* Aumenta el padding para hacer los botones más grandes */
     color: var(--clr-white);
-    text-transform: uppercase;
+    text-transform: uppercase; 
     cursor: pointer;
-    border-radius: 1rem; /* Radio del borde igual en todos los lados */
-    display: inline-block; /* Para que el botón se ajuste a su contenido */
-    text-align: center; /* Centra el texto */
+    border-radius: 2rem; /* Aumenta el radio del borde */
+    font-size: 1.5rem; /* Aumenta el tamaño del texto */
+    min-width: 150px; /* Establece un ancho mínimo para los botones */
+    text-align: center;
+    display: flex; /* Centra el contenido dentro del botón */
+    align-items: center; /* Alinea el contenido verticalmente */
+    justify-content: center; /* Centra el contenido horizontalmente */
 }
-.carrito-acciones-comprar2 {
-    
-        border: 0;
-        background-color: var(--clr-main);
-        padding: 1rem;
-        color: var(--clr-white);
-        text-transform: uppercase;
-        cursor: pointer;
-        border-radius: 1rem; /* Radio del borde igual en todos los lados */
-        display: inline-block; /* Para que el botón se ajuste a su contenido */
-        text-align: center; /* Centra el texto */
-    }
+
+.carrito-acciones-comprar{
+    width: 100% !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#paypal-button-container {
+    display: flex;
+    justify-content: center; /* Centra el botón en el contenedor */
+    width: 100%; /* Asegúrate de que el contenedor ocupe todo el ancho disponible */
+    padding: 1rem; /* Agrega padding si es necesario */
+}
+
+
+
+
+
+
+
+
+
 .header-mobile {
     display: none;
 }
@@ -304,10 +342,18 @@ main {
 
 /*** MEDIA QUERIES ***/
 
+@media screen and (min-width: 851px) {
+    #paypal-button-container {
+        padding: 1rem 10%; /* Agrega padding si es necesario */
+    }
+    
+}
+
 @media screen and (max-width: 850px) {
     .contenedor-productos {
         grid-template-columns: 1fr 1fr 1fr;
     }
+    
 }
 
 @media screen and (max-width: 675px) {

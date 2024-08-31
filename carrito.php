@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
     <link rel="stylesheet" href="./css/main.css">
+    <script src="https://sandbox.paypal.com/sdk/js?client-id=AVg6Jm7uXH5TqgoGISIBDx8yyGUIi8dbsKDpDWIZdlmRgKGY5JwSgK9VQ2xzHyxD7-zovl3iPyohb6W"></script>
 </head>
 <body>
 
@@ -61,26 +62,30 @@
                         <div class="carrito-acciones-total">
                             <p>Total:</p>
                             <p id="total">$3000</p>
-                            <p>Seleccione metodo de pago</p>
                         </div>
-                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Paypal</button>   
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Pagar Ahora</button>   
                         
                     </div>
                 </div>
 
                 <p id="carrito-comprado" class="carrito-comprado disabled">Medios de Pago 
-                <button class="carrito-acciones-comprar">Paypal</button>
-                <button class="carrito-acciones-comprar">Tarjeta debito o credito</button>
-                
-                    <i class="bi bi-emoji-laughing"></i></p>
-
+                <div id="paypal-button-container" class="carrito-acciones-comprar">Paypal</div>
+                <script>
+                    paypal.Buttons({
+                        style: {
+                            layout: 'vertical',
+                            color:  'blue',
+                            shape:  'rect',
+                            label:  'paypal'
+                        }
+                    }).render('#paypal-button-container');
+                </script>
             </div>
         </main>
     </div>
     
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="js/carrito.js"></script>
     <script src="js/carrito.js"></script>
 </body>
 </html>

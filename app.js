@@ -1,3 +1,5 @@
+
+
 // Productos disponibles en la tienda
 const products = [
     { id: 1, name: 'Producto 1', price: 10 },
@@ -100,3 +102,6 @@ function getTotalPrice() {
 
 // Mostrar los productos al cargar la página
 displayProducts();
+
+
+

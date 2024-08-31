@@ -10,7 +10,6 @@ const botonVaciar = document.querySelector("#carrito-acciones-vaciar");
 const contenedorTotal = document.querySelector("#total");
 const botonComprar = document.querySelector("#carrito-acciones-comprar");
 
-
 function cargarProductosCarrito() {
     if (productosEnCarrito && productosEnCarrito.length > 0) {
 
@@ -47,10 +46,11 @@ function cargarProductosCarrito() {
             `;
     
             contenedorCarritoProductos.append(div);
-        })
-    
-    actualizarBotonesEliminar();
-    actualizarTotal();
+        });
+
+        actualizarBotonesEliminar();
+        actualizarTotal();
+        renderizarPaypal(); // Llama a la función para renderizar PayPal después de actualizar el carrito.
 	
     } else {
         contenedorCarritoVacio.classList.remove("disabled");
@@ -58,7 +58,6 @@ function cargarProductosCarrito() {
         contenedorCarritoAcciones.classList.add("disabled");
         contenedorCarritoComprado.classList.add("disabled");
     }
-
 }
 
 cargarProductosCarrito();
@@ -76,9 +75,9 @@ function eliminarDelCarrito(e) {
         text: "Producto eliminado",
         duration: 3000,
         close: true,
-        gravity: "top", // `top` or `bottom`
-        position: "right", // `left`, `center` or `right`
-        stopOnFocus: true, // Prevents dismissing of toast on hover
+        gravity: "top", 
+        position: "right",
+        stopOnFocus: true,
         style: {
           background: "linear-gradient(to right, #4b33a8, #785ce9)",
           borderRadius: "2rem",
@@ -86,10 +85,10 @@ function eliminarDelCarrito(e) {
           fontSize: ".75rem"
         },
         offset: {
-            x: '1.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '1.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
-          },
-        onClick: function(){} // Callback after click
+            x: '1.5rem', 
+            y: '1.5rem' 
+        },
+        onClick: function(){} 
       }).showToast();
 
     const idBoton = e.currentTarget.id;
@@ -99,7 +98,6 @@ function eliminarDelCarrito(e) {
     cargarProductosCarrito();
 
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
-
 }
 
 botonVaciar.addEventListener("click", vaciarCarrito);
@@ -119,18 +117,16 @@ function vaciarCarrito() {
             localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
             cargarProductosCarrito();
         }
-      })
+    });
 }
-
 
 function actualizarTotal() {
     const totalCalculado = productosEnCarrito.reduce((acc, producto) => acc + (producto.precio * producto.cantidad), 0);
-    total.innerText = `$${totalCalculado}`;
+    contenedorTotal.innerText = `$${totalCalculado}`;
 }
 
 botonComprar.addEventListener("click", comprarCarrito);
 function comprarCarrito() {
-
     productosEnCarrito.length = 0;
     localStorage.setItem("productos-en-carrito", JSON.stringify(productosEnCarrito));
     
@@ -138,21 +134,46 @@ function comprarCarrito() {
     contenedorCarritoProductos.classList.add("disabled");
     contenedorCarritoAcciones.classList.add("disabled");
     contenedorCarritoComprado.classList.remove("disabled");
-
 }
 
 document.getElementById("carrito-acciones-comprar").addEventListener("click", function() {
     document.querySelector(".dropdown-menu").classList.toggle("show");
-  });
-  
-  window.onclick = function(event) {
+});
+
+window.onclick = function(event) {
     if (!event.target.matches('.dropdown-toggle')) {
-      var dropdowns = document.getElementsByClassName("dropdown-menu");
-      for (var i = 0; i < dropdowns.length; i++) {
-        var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show')) {
-          openDropdown.classList.remove('show');
+        var dropdowns = document.getElementsByClassName("dropdown-menu");
+        for (var i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
         }
-      }
     }
-  }
+}
+
+function renderizarPaypal() {
+    paypal.Buttons({
+        style: {
+            layout: 'vertical',
+            color: 'blue',
+            shape: 'rect',
+            label: 'paypal'
+        },
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: contenedorTotal.innerText.replace('$', '') // Obtén el total sin el símbolo $
+                    }
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+                alert('Compra completada por ' + details.payer.name.given_name);
+                comprarCarrito(); // Vaciar el carrito después de una compra exitosa
+            });
+        }
+    }).render('#paypal-button-container');
+}

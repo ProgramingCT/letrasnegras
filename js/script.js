@@ -13,8 +13,10 @@ document.querySelectorAll('.testimonial-block').forEach(block => {
     block.querySelector('.stars').innerHTML = generateStars(rating);
 });
 
+function sellosTo(filtro){
+	window.location.href = `comprar.html?filtro=${filtro}`; 
+}
     
-
 ;(function ($) {
 
 	'use strict';
@@ -248,3 +250,5 @@ function mostrarResultados(resultados) {
         contenedorResultados.appendChild(productoElemento);
     });
 }
+
+

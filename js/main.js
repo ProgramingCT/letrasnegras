@@ -21,8 +21,39 @@ botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
 }))
 
-function cargarProductos(productosElegidos) {
+function obtenerParametroURL(nombre){
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(nombre);
+}
 
+window.onload = function(){
+    const filtro = obtenerParametroURL('filtro');
+    tituloPrincipal.innerText = "Cargando Productos";
+    // const productosBot = productos.filter(producto => producto.categoria.id === "Akropolis");
+    // console.log("akropolis productos on load: ",productosBot)
+    
+    if(filtro){
+        tituloPrincipal.innerText = filtro;
+        botonesCategorias.forEach(boton => boton.classList.remove("active"));
+        botonesCategorias.forEach(boton => {
+            if(boton.id == filtro){
+                boton.classList.add("active");
+            }
+        })
+
+        // const productoCategoria = productos.find(producto => producto.categoria.id == filtro);
+            // tituloPrincipal.innerText = productoCategoria.categoria.nombre;
+        const productosBoton = productos.filter(producto => producto.categoria.id == filtro);
+        //console.log("productos segun: ",filtro,productosBoton)
+        cargarProductos(productosBoton);
+    }else {
+        tituloPrincipal.innerText = "Todos los productos";
+        cargarProductos(productos);
+    }
+}
+
+function cargarProductos(productosElegidos) {
+    console.log(productosElegidos)
     contenedorProductos.innerHTML = "";
 
     const inicio = (paginaActual - 1) * productosPorPagina;
@@ -109,6 +140,9 @@ botonesCategorias.forEach(boton => {
 
         botonesCategorias.forEach(boton => boton.classList.remove("active"));
         e.currentTarget.classList.add("active");
+        const productosBot = productos.filter(producto => producto.categoria.id === "Akropolis");
+        // console.log("akropolis productos: ",productosBot)
+        //console.log("BotonesCategorias",e,boton.id)
 
         paginaActual = 1; // Resetear a la primera página
 
@@ -116,6 +150,7 @@ botonesCategorias.forEach(boton => {
             const productoCategoria = productos.find(producto => producto.categoria.id === e.currentTarget.id);
             tituloPrincipal.innerText = productoCategoria.categoria.nombre;
             const productosBoton = productos.filter(producto => producto.categoria.id === e.currentTarget.id);
+            //console.log(productosBoton)
             cargarProductos(productosBoton);
         } else {
             tituloPrincipal.innerText = "Todos los productos";

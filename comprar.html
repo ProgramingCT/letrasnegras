@@ -48,63 +48,102 @@
 						</li>
 						<li class="nav-item"><a class="nav-link" id="nav-history" href="about.html">Nosotros</a></li>
 						<li class="nav-item"><a class="nav-link" id="nav-buy" href="comprar.html">Comprar</a></li>
-						<li class="nav-item"><a class="nav-link" id="nav-buy" href="trabajo.html">Trabaja con nosotros</a></li>
+						<li class="nav-item"><a class="nav-link" id="nav-job" href="trabajo.html">Trabaja con nosotros</a></li>
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="blog-sidebar.html" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Convocatorias<i class="icofont-thin-down"></i></a>
-							<ul class="dropdown-menu" aria-labelledby="dropdown05">
+							<a class="nav-link dropdown-toggle" href="#" id="dropdownConvocatorias" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Convocatorias<i class="icofont-thin-down"></i></a>
+							<ul class="dropdown-menu" aria-labelledby="dropdownConvocatorias">
 								<li><a class="dropdown-item" href="akera.html">Akera</a></li>
 								<li><a class="dropdown-item" href="converso.html">Converso</a></li>
 								<li><a class="dropdown-item" href="mangaka.html">Mangaka</a></li>
-								<li><a class="dropdown-item" href="Colombia.html">Colombia</a></li>
-								<li><a class="dropdown-item" href="mexico.html">Mexico</a></li>
+								<li><a class="dropdown-item" href="colombia.html">Colombia</a></li>
+								<li><a class="dropdown-item" href="mexico.html">México</a></li>
 								<li><a class="dropdown-item" href="chile.html">Chile</a></li>
 								<li><a class="dropdown-item" href="andino.html">Andino</a></li>
-								<li><a class="dropdown-item" href="Brasil.html">Brasil</a></li>
+								<li><a class="dropdown-item" href="brasil.html">Brasil</a></li>
 							</ul>
 						</li>
 						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#
-							" id="dropdownCountry" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								<img src="images/paises/mexico.png" alt="Colombia" class="country-icon"> <span id="nav-country">País</span>
+							<a class="nav-link dropdown-toggle" href="#" id="dropdownCountry" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<img src="images/paises/mexico.png" alt="México" class="country-icon" id="nav-country-icon"> 
+								<span id="nav-country">México</span>
 							</a>
 							<ul class="dropdown-menu" aria-labelledby="dropdownCountry">
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('es')">
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('colombia', 'Colombia', 'images/paises/colombia.png')">
 									<img src="images/paises/colombia.png" alt="Colombia" class="country-icon"> Colombia
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/brasil.png" alt="USA" class="country-icon"> Brasil
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('brasil', 'Brasil', 'images/paises/brasil.png')">
+									<img src="images/paises/brasil.png" alt="Brasil" class="country-icon"> Brasil
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/mexico.png" alt="USA" class="country-icon"> Mexico                                 
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('mexico', 'México', 'images/paises/mexico.png')">
+									<img src="images/paises/mexico.png" alt="México" class="country-icon"> México
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/peru.png" alt="USA" class="country-icon"> Peru
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('peru', 'Perú', 'images/paises/peru.png')">
+									<img src="images/paises/peru.png" alt="Perú" class="country-icon"> Perú
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/españa.png" alt="USA" class="country-icon"> España
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('españa', 'España', 'images/paises/españa.png')">
+									<img src="images/paises/españa.png" alt="España" class="country-icon"> España
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/chile.png" alt="USA" class="country-icon"> Chile
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('chile', 'Chile', 'images/paises/chile.png')">
+									<img src="images/paises/chile.png" alt="Chile" class="country-icon"> Chile
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/argentina.png" alt="USA" class="country-icon" >Argentina
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('argentina', 'Argentina', 'images/paises/argentina.png')">
+									<img src="images/paises/argentina.png" alt="Argentina" class="country-icon"> Argentina
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/bolivia.png" alt="USA" class="country-icon"> Boliva
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('bolivia', 'Bolivia', 'images/paises/bolivia.png')">
+									<img src="images/paises/bolivia.png" alt="Bolivia" class="country-icon"> Bolivia
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/rd.png" alt="USA" class="country-icon"> Republica Dominicana
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('rd', 'República Dominicana', 'images/paises/rd.png')">
+									<img src="images/paises/rd.png" alt="República Dominicana" class="country-icon"> República Dominicana
 								</a></li>
-								<li><a class="dropdown-item" href="#" onclick="changeLanguage('en')">
-									<img src="images/paises/uruguay.png" alt="USA" class="country-icon"> Uruguay
+								<li><a class="dropdown-item" href="#" onclick="cambiarPais('uruguay', 'Uruguay', 'images/paises/uruguay.png')">
+									<img src="images/paises/uruguay.png" alt="Uruguay" class="country-icon"> Uruguay
 								</a></li>
 							</ul>
 						</li>
+						
+						<script>
+						function cambiarPais(codigoPais, nombrePais, rutaImagen) {
+							// Cambiar el icono y nombre en el menú de navegación
+							document.getElementById("nav-country-icon").src = rutaImagen;
+							document.getElementById("nav-country").innerText = nombrePais;
+						
+							// Guardar la selección del país en localStorage
+							localStorage.setItem("paisSeleccionado", codigoPais);
+						
+							// Recargar la página para aplicar el cambio de país
+							location.reload();
+						}
+						
+						// Al cargar la página, establece el país seleccionado desde localStorage
+						document.addEventListener("DOMContentLoaded", function() {
+							const paisSeleccionado = localStorage.getItem("paisSeleccionado") || 'mexico';
+							const paises = {
+								'colombia': { nombre: 'Colombia', imagen: 'images/paises/colombia.png' },
+								'brasil': { nombre: 'Brasil', imagen: 'images/paises/brasil.png' },
+								'mexico': { nombre: 'México', imagen: 'images/paises/mexico.png' },
+								'peru': { nombre: 'Perú', imagen: 'images/paises/peru.png' },
+								'españa': { nombre: 'España', imagen: 'images/paises/españa.png' },
+								'chile': { nombre: 'Chile', imagen: 'images/paises/chile.png' },
+								'argentina': { nombre: 'Argentina', imagen: 'images/paises/argentina.png' },
+								'bolivia': { nombre: 'Bolivia', imagen: 'images/paises/bolivia.png' },
+								'rd': { nombre: 'República Dominicana', imagen: 'images/paises/rd.png' },
+								'uruguay': { nombre: 'Uruguay', imagen: 'images/paises/uruguay.png' }
+							};
+						
+							const pais = paises[paisSeleccionado];
+							if (pais) {
+								document.getElementById("nav-country-icon").src = pais.imagen;
+								document.getElementById("nav-country").innerText = pais.nombre;
+							}
+						});
+						</script>
+						
 					</ul>
 				</div>
 			</div>
 		</nav>
 	</header>
+	
 
 
 <section class="page-title bg-1">

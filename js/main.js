@@ -221,3 +221,47 @@ function actualizarNumerito() {
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+
+
+
+ // buscador 
+// Función para buscar y filtrar productos
+document.getElementById('boton-buscar').addEventListener('click', function() {
+    const terminoBusqueda = document.getElementById('buscar-producto').value.toLowerCase();
+
+    fetch('productos.json')
+        .then(response => response.json())
+        .then(data => {
+            const resultados = data.filter(producto => 
+                producto.titulo.toLowerCase().includes(terminoBusqueda)
+            );
+
+            mostrarResultados(resultados);
+        })
+        .catch(error => console.error('Error al cargar los productos:', error));
+});
+
+function mostrarResultados(resultados) {
+    const contenedorResultados = document.getElementById('resultado-busqueda');
+    contenedorResultados.innerHTML = '';
+
+    if (resultados.length === 0) {
+        contenedorResultados.innerHTML = '<p>No se encontraron productos.</p>';
+        return;
+    }
+
+    resultados.forEach(producto => {
+        const productoElemento = document.createElement('div');
+        productoElemento.classList.add('producto');
+
+        productoElemento.innerHTML = `
+            <h3>${producto.titulo}</h3>
+            <img src="${producto.imagen}" alt="${producto.titulo}">
+            <p>Precio: ${producto.precio}</p>
+        `;
+
+        contenedorResultados.appendChild(productoElemento);
+    });
+}
+
+

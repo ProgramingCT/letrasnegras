@@ -88,7 +88,7 @@ function cargarProductos(productosElegidos) {
 function actualizarPaginacion() {
     contenedorPaginacion.innerHTML = "";
 
-    const totalPaginas = obtenerTotalPaginas();
+    const totalPaginas = obtenerTotalPaginas(productos);
     const maxNumerosPorPagina = 7;
 
     if (paginaActual > 1) {
@@ -135,7 +135,7 @@ function actualizarPaginacion() {
     }
 }
 
-function obtenerTotalPaginas() {
+function obtenerTotalPaginas(productos) {
     return Math.ceil(productos.length / productosPorPagina);
 }
 

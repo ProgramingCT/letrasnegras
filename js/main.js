@@ -56,7 +56,18 @@ window.onload = function () {
 }
 
 function cargarProductos(productosElegidos) {
-    console.log(productosElegidos);
+    const codigosMoneda = {
+        colombia: "COP",
+        mexico: "MXN",
+        peru: "PEN",
+        españa: "EUR",
+        chile: "CLP",
+        ecuador: "USD",
+        uruguay: "UYU"
+    };
+
+    const codigoMoneda = codigosMoneda[paisSeleccionado] || "USD";
+
     contenedorProductos.innerHTML = "";
 
     const inicio = (paginaActual - 1) * productosPorPagina;
@@ -74,7 +85,7 @@ function cargarProductos(productosElegidos) {
             <img class="producto-imagen" src="${producto.imagen}" alt="${producto.titulo}">
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
-                <p class="producto-precio">$${precioPais}</p>
+                <p class="producto-precio">$${precioPais} ${codigoMoneda}</p>
                 <button class="producto-agregar" id="${producto.id}">Agregar</button>
             </div>
         `;
@@ -83,6 +94,7 @@ function cargarProductos(productosElegidos) {
 
     actualizarBotonesAgregar();
     actualizarPaginacion();
+
 }
 
 function actualizarPaginacion() {
@@ -218,3 +230,47 @@ function actualizarNumerito() {
     let nuevoNumerito = productosEnCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
     numerito.innerText = nuevoNumerito;
 }
+
+
+
+ // buscador 
+// Función para buscar y filtrar productos
+document.getElementById('boton-buscar').addEventListener('click', function() {
+    const terminoBusqueda = document.getElementById('buscar-producto').value.toLowerCase();
+
+    fetch('productos.json')
+        .then(response => response.json())
+        .then(data => {
+            const resultados = data.filter(producto => 
+                producto.titulo.toLowerCase().includes(terminoBusqueda)
+            );
+
+            mostrarResultados(resultados);
+        })
+        .catch(error => console.error('Error al cargar los productos:', error));
+});
+
+function mostrarResultados(resultados) {
+    const contenedorResultados = document.getElementById('resultado-busqueda');
+    contenedorResultados.innerHTML = '';
+
+    if (resultados.length === 0) {
+        contenedorResultados.innerHTML = '<p>No se encontraron productos.</p>';
+        return;
+    }
+
+    resultados.forEach(producto => {
+        const productoElemento = document.createElement('div');
+        productoElemento.classList.add('producto');
+
+        productoElemento.innerHTML = `
+            <h3>${producto.titulo}</h3>
+            <img src="${producto.imagen}" alt="${producto.titulo}">
+            <p>Precio: ${producto.precio}</p>
+        `;
+
+        contenedorResultados.appendChild(productoElemento);
+    });
+}
+
+

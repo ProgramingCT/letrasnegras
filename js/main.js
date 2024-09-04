@@ -15,6 +15,9 @@ let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numerito = document.querySelector("#numerito");
 const contenedorPaginacion = document.querySelector("#paginacion");
 
+const inputBuscar = document.querySelector("#buscar-producto");
+const botonBuscar = document.querySelector("#boton-buscar");
+
 const productosPorPagina = 8; // Número de productos por página
 let paginaActual = 1; // Página actual
 
@@ -29,7 +32,6 @@ function obtenerParametroURL(nombre) {
 
 function obtenerPaisSeleccionado() {
     // Implementa esta función para retornar el país seleccionado
-    // Por ejemplo, podrías leerlo de un valor en localStorage, una cookie, o un elemento en el DOM.
     return localStorage.getItem("paisSeleccionado") || "colombia";
 }
 
@@ -94,7 +96,6 @@ function cargarProductos(productosElegidos) {
 
     actualizarBotonesAgregar();
     actualizarPaginacion();
-
 }
 
 function actualizarPaginacion() {
@@ -231,46 +232,26 @@ function actualizarNumerito() {
     numerito.innerText = nuevoNumerito;
 }
 
+// Agregar funcionalidad de búsqueda
 
-
- // buscador 
-// Función para buscar y filtrar productos
-document.getElementById('boton-buscar').addEventListener('click', function() {
-    const terminoBusqueda = document.getElementById('buscar-producto').value.toLowerCase();
-
-    fetch('productos.json')
-        .then(response => response.json())
-        .then(data => {
-            const resultados = data.filter(producto => 
-                producto.titulo.toLowerCase().includes(terminoBusqueda)
-            );
-
-            mostrarResultados(resultados);
-        })
-        .catch(error => console.error('Error al cargar los productos:', error));
+botonBuscar.addEventListener("click", () => {
+    const terminoBusqueda = inputBuscar.value.toLowerCase();
+    const productosFiltrados = productos.filter(producto =>
+        producto.titulo.toLowerCase().includes(terminoBusqueda) ||
+        producto.categoria.nombre.toLowerCase().includes(terminoBusqueda)
+    );
+    cargarProductos(productosFiltrados);
 });
 
-function mostrarResultados(resultados) {
-    const contenedorResultados = document.getElementById('resultado-busqueda');
-    contenedorResultados.innerHTML = '';
-
-    if (resultados.length === 0) {
-        contenedorResultados.innerHTML = '<p>No se encontraron productos.</p>';
-        return;
+inputBuscar.addEventListener("input", () => {
+    const terminoBusqueda = inputBuscar.value.toLowerCase();
+    if (terminoBusqueda === "") {
+        cargarProductos(productos);
+    } else {
+        const productosFiltrados = productos.filter(producto =>
+            producto.titulo.toLowerCase().includes(terminoBusqueda) ||
+            producto.categoria.nombre.toLowerCase().includes(terminoBusqueda)
+        );
+        cargarProductos(productosFiltrados);
     }
-
-    resultados.forEach(producto => {
-        const productoElemento = document.createElement('div');
-        productoElemento.classList.add('producto');
-
-        productoElemento.innerHTML = `
-            <h3>${producto.titulo}</h3>
-            <img src="${producto.imagen}" alt="${producto.titulo}">
-            <p>Precio: ${producto.precio}</p>
-        `;
-
-        contenedorResultados.appendChild(productoElemento);
-    });
-}
-
-
+});

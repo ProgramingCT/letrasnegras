@@ -5,7 +5,7 @@ fetch("js/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
-        cargarProductos(productos);
+        cargarProductos(productos); // Inicialmente cargar todos los productos
     });
 
 const contenedorProductos = document.querySelector("#contenedor-productos");
@@ -44,13 +44,13 @@ window.onload = function () {
         tituloPrincipal.innerText = filtro;
         botonesCategorias.forEach(boton => boton.classList.remove("active"));
         botonesCategorias.forEach(boton => {
-            if (boton.id == filtro) {
+            if (boton.id === filtro) {
                 boton.classList.add("active");
             }
         });
 
-        const productosBoton = productos.filter(producto => producto.categoria.id == filtro);
-        cargarProductos(productosBoton);
+        const productosFiltrados = productos.filter(producto => producto.categoria.id === filtro);
+        cargarProductos(productosFiltrados);
     } else {
         tituloPrincipal.innerText = "Todos los productos";
         cargarProductos(productos);
@@ -159,7 +159,7 @@ botonesCategorias.forEach(boton => {
 
         paginaActual = 1; // Resetear a la primera página
 
-        if (e.currentTarget.id != "todos") {
+        if (e.currentTarget.id !== "todos") {
             const productoCategoria = productos.find(producto => producto.categoria.id === e.currentTarget.id);
             tituloPrincipal.innerText = productoCategoria.categoria.nombre;
             const productosBoton = productos.filter(producto => producto.categoria.id === e.currentTarget.id);

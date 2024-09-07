@@ -1,5 +1,6 @@
 let productos = [];
-let paisSeleccionado = obtenerPaisSeleccionado(); // Función para obtener el país seleccionado
+let paisSeleccionado = obtenerPaisSeleccionado();
+let categoriaSeleccionada = null; // Estado para la categoría seleccionada
 
 fetch("js/productos.json")
     .then(response => response.json())
@@ -18,8 +19,8 @@ const contenedorPaginacion = document.querySelector("#paginacion");
 const inputBuscar = document.querySelector("#buscar-producto");
 const botonBuscar = document.querySelector("#boton-buscar");
 
-const productosPorPagina = 8; // Número de productos por página
-let paginaActual = 1; // Página actual
+const productosPorPagina = 8;
+let paginaActual = 1;
 
 botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
     aside.classList.remove("aside-visible");
@@ -31,12 +32,11 @@ function obtenerParametroURL(nombre) {
 }
 
 function obtenerPaisSeleccionado() {
-    // Implementa esta función para retornar el país seleccionado
     return localStorage.getItem("paisSeleccionado") || "colombia";
 }
 
 window.onload = function () {
-    paisSeleccionado = obtenerPaisSeleccionado(); // Asegúrate de obtener el país seleccionado al cargar la página
+    paisSeleccionado = obtenerPaisSeleccionado();
     const filtro = obtenerParametroURL('filtro');
     tituloPrincipal.innerText = "Cargando Productos";
 
@@ -46,12 +46,14 @@ window.onload = function () {
         botonesCategorias.forEach(boton => {
             if (boton.id === filtro) {
                 boton.classList.add("active");
+                categoriaSeleccionada = filtro; // Establecer categoría seleccionada
             }
         });
 
-        const productosFiltrados = productos.filter(producto => producto.categoria.id === filtro);
+        const productosFiltrados = productos.filter(producto => producto.categoria.id === categoriaSeleccionada);
         cargarProductos(productosFiltrados);
     } else {
+        categoriaSeleccionada = null; // No hay filtro
         tituloPrincipal.innerText = "Todos los productos";
         cargarProductos(productos);
     }
@@ -80,7 +82,6 @@ function cargarProductos(productosElegidos) {
         const div = document.createElement("div");
         div.classList.add("producto");
 
-        // Obtener el precio para el país seleccionado
         const precioPais = producto.precios[paisSeleccionado];
 
         div.innerHTML = `
@@ -95,13 +96,13 @@ function cargarProductos(productosElegidos) {
     });
 
     actualizarBotonesAgregar();
-    actualizarPaginacion();
+    actualizarPaginacion(productosElegidos);
 }
 
-function actualizarPaginacion() {
+function actualizarPaginacion(productosElegidos) {
     contenedorPaginacion.innerHTML = "";
 
-    const totalPaginas = obtenerTotalPaginas(productos);
+    const totalPaginas = obtenerTotalPaginas(productosElegidos);
     const maxNumerosPorPagina = 7;
 
     if (paginaActual > 1) {
@@ -110,7 +111,7 @@ function actualizarPaginacion() {
         flechaIzquierda.classList.add("boton-pagina");
         flechaIzquierda.addEventListener("click", () => {
             paginaActual--;
-            cargarProductos(productos);
+            cargarProductos(categoriaSeleccionada ? productos.filter(producto => producto.categoria.id === categoriaSeleccionada) : productos);
         });
         contenedorPaginacion.append(flechaIzquierda);
     }
@@ -130,7 +131,7 @@ function actualizarPaginacion() {
 
         botonPagina.addEventListener("click", () => {
             paginaActual = i;
-            cargarProductos(productos);
+            cargarProductos(categoriaSeleccionada ? productos.filter(producto => producto.categoria.id === categoriaSeleccionada) : productos);
         });
 
         contenedorPaginacion.append(botonPagina);
@@ -142,7 +143,7 @@ function actualizarPaginacion() {
         flechaDerecha.classList.add("boton-pagina");
         flechaDerecha.addEventListener("click", () => {
             paginaActual++;
-            cargarProductos(productos);
+            cargarProductos(categoriaSeleccionada ? productos.filter(producto => producto.categoria.id === categoriaSeleccionada) : productos);
         });
         contenedorPaginacion.append(flechaDerecha);
     }
@@ -157,14 +158,15 @@ botonesCategorias.forEach(boton => {
         botonesCategorias.forEach(boton => boton.classList.remove("active"));
         e.currentTarget.classList.add("active");
 
-        paginaActual = 1; // Resetear a la primera página
+        paginaActual = 1;
 
         if (e.currentTarget.id !== "todos") {
-            const productoCategoria = productos.find(producto => producto.categoria.id === e.currentTarget.id);
-            tituloPrincipal.innerText = productoCategoria.categoria.nombre;
-            const productosBoton = productos.filter(producto => producto.categoria.id === e.currentTarget.id);
+            categoriaSeleccionada = e.currentTarget.id;
+            const productosBoton = productos.filter(producto => producto.categoria.id === categoriaSeleccionada);
+            tituloPrincipal.innerText = productosBoton[0]?.categoria.nombre || "Categoría";
             cargarProductos(productosBoton);
         } else {
+            categoriaSeleccionada = null;
             tituloPrincipal.innerText = "Todos los productos";
             cargarProductos(productos);
         }
@@ -232,8 +234,6 @@ function actualizarNumerito() {
     numerito.innerText = nuevoNumerito;
 }
 
-// Agregar funcionalidad de búsqueda
-
 botonBuscar.addEventListener("click", () => {
     const terminoBusqueda = inputBuscar.value.toLowerCase();
     const productosFiltrados = productos.filter(producto =>
@@ -246,7 +246,7 @@ botonBuscar.addEventListener("click", () => {
 inputBuscar.addEventListener("input", () => {
     const terminoBusqueda = inputBuscar.value.toLowerCase();
     if (terminoBusqueda === "") {
-        cargarProductos(productos);
+        cargarProductos(categoriaSeleccionada ? productos.filter(producto => producto.categoria.id === categoriaSeleccionada) : productos);
     } else {
         const productosFiltrados = productos.filter(producto =>
             producto.titulo.toLowerCase().includes(terminoBusqueda) ||

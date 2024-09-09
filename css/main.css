@@ -146,29 +146,93 @@ main {
 
 .contenedor-productos {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1fr); /* 4 columnas en pantallas grandes */
     gap: 1rem;
+    margin: 0 auto;
+    max-width: 100%; /* Asegura que el contenedor no exceda el ancho de la pantalla */
+    padding: 0 1rem; /* Opcional: Añade un poco de relleno horizontal */
+    box-sizing: border-box; /* Incluye padding en el ancho total del contenedor */
+}
+
+
+/* Media query para pantallas medianas */
+@media (max-width: 1024px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(2, 1fr); /* 2 columnas en pantallas medianas */
+    }
+}
+
+/* Media query para pantallas móviles */
+@media (max-width: 768px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(2, 1fr); /* 2 columnas en pantallas móviles */
+    }
+}
+
+/* Media query para pantallas muy pequeñas */
+@media (max-width: 480px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(1, 1fr); /* 1 columna en pantallas muy pequeñas */
+        gap: 0.5rem; /* Reduce el espacio entre los elementos en pantallas muy pequeñas */
+    }
+}
+
+
+.producto-titulo {
+    font-size: 1rem;
+}
+
+.contenedor-productos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columnas en pantallas grandes */
+    gap: 1rem;
+    margin: 0 auto;
+    max-width: 100%; /* Asegura que el contenedor no exceda el ancho de la pantalla */
+    padding: 0 1rem; /* Opcional: Añade un poco de relleno horizontal */
+    box-sizing: border-box; /* Incluye padding en el ancho total del contenedor */
 }
 
 .producto-imagen {
-    max-width: 100%;
-    width: 350px;
-    border-radius: 1rem;
-    height: 450px;
-    max-height: 100%;
+    width: 100%; /* Asegura que la imagen ocupe el ancho del contenedor del producto */
+    height: auto;
+    flex: 1; /* Mantiene la proporción de la imagen */
+    border-radius: 1rem 1rem 0rem 0rem;
+    object-fit: cover; /* Ajusta la imagen para cubrir el área sin deformarse */
 }
 
+/* Media query para pantallas medianas */
+@media (max-width: 1024px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(2, 1fr); /* 3 columnas en pantallas medianas */
+    }
+}
+
+/* Media query para pantallas móviles */
+@media (max-width: 768px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(2, 1fr); /* 2 columnas en pantallas móviles */
+    }
+}
+
+/* Media query para pantallas muy pequeñas */
+@media (max-width: 480px) {
+    .contenedor-productos {
+        grid-template-columns: repeat(1, 1fr); /* 1 columna en pantallas muy pequeñas */
+        gap: 0.5rem; /* Reduce el espacio entre los elementos en pantallas muy pequeñas */
+    }
+}
 .producto-detalles {
     background-color: var(--clr-main);
     color: var(--clr-white);
     padding: .5rem;
-    border-radius: 1rem;
-    margin-top: -2rem;
+    border-radius: 0rem 0rem 1rem 1rem;
+    margin-top: 0;
     position: relative;
     display: flex;
     flex-direction: column;
     gap: .25rem;
 }
+
 
 .producto-titulo {
     font-size: 1rem;
@@ -488,7 +552,7 @@ main {
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: end;
     width: 250px; /* ancho de los productos */
     margin: 0 auto; /* Centra los productos */
     height: 550px; /* altura de los productos */

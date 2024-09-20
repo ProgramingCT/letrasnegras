@@ -6,9 +6,6 @@
     <title>Carrito de Compras</title>
     <!-- Incluye Bootstrap para el diseño -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <!-- Incluye el SDK de PayPal -->
-    <script src="https://www.paypal.com/sdk/js?client-id=AVZiUP8rYnw_-4tMFmRjf23Vb1iLh4Exb5_44HhbXol-7HA1RwJklEo3be4UegCwf2WDZK19QVgAZL1m&currency=MXN"></script>
-
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
@@ -17,7 +14,7 @@
 <body>
     <div class="wrapper">
         <header class="header-mobile">
-            <h1 class="logo">CarpiShop</h1>
+            <h1 class="logo">Pago LN</h1>
             <button class="open-menu" id="open-menu">
                 <i class="bi bi-list"></i>
             </button>
@@ -58,17 +55,22 @@
             </div>
 
             <div id="carrito-acciones" class="carrito-acciones disabled">
-                <div class="carrito-acciones-izquierda">
-                    <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
-                    
-                </div>
                 
                 <div class="carrito-acciones-derecha">
                     <div class="carrito-acciones-total">
-                        <p>Total:</p>
-                        <p id="total">$0</p> <!-- El total se actualizará dinámicamente con JavaScript -->
+                        <p>Total:
+                            <span id="total">$0</span>
+                        </p>
+                        <div class="carrito-acciones-izquierda">
+                            <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                        </div>
                     </div>
-                    <div id="paypal-button-container" class="carrito-acciones-comprar"></div> <!-- Botón de PayPal -->
+                    <div id="paypal-button-container" class="carrito-acciones-comprar">
+                        
+                    </div>
+                    <div id="payu-button-container" class="carrito-acciones-comprar"></div>
+
+
                 </div>
             </div>
 
